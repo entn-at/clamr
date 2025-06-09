@@ -1,0 +1,4002 @@
+{
+  "train_000340_V_P-s8binZo": {
+    "query": "New media company overcoming bottlenecks",
+    "query_type": "ocr"
+  },
+  "train_000341_jNmQYYHFOq4": {
+    "query": "US inflation report May 2022 8.6%",
+    "query_type": "ocr"
+  },
+  "train_001001_kvMBI76gmLw": {
+    "query": "Incheon public art project revitalizing alleyways",
+    "query_type": "ocr"
+  },
+  "train_000982_EbbpZh4A2hk": {
+    "query": "Snow Sense team marathon",
+    "query_type": "ocr"
+  },
+  "train_000299_1MRm-SCZvts": {
+    "query": "Iranian calligraphy tutorial",
+    "query_type": "ocr"
+  },
+  "train_000478_aYMsE_09bl8": {
+    "query": "Russian train schedule Adler to Rostov",
+    "query_type": "ocr"
+  },
+  "train_000529_kagNlvVjpbU": {
+    "query": "Sprouting potatoes for replanting",
+    "query_type": "ocr"
+  },
+  "train_000615_T3azOkjydVM": {
+    "query": "PROKON PADDS file tutorial",
+    "query_type": "ocr"
+  },
+  "train_000211_GZ4ihyRcz4A": {
+    "query": "Istanbul airport attack IS suspect",
+    "query_type": "ocr"
+  },
+  "train_000438_2wSqelaqy8s": {
+    "query": "Kang Hsi Educational Group chairman apology",
+    "query_type": "ocr"
+  },
+  "train_000724_4uo6lzWho9s": {
+    "query": "Andre-Laurendeau building valuation technology",
+    "query_type": "ocr"
+  },
+  "train_000472_4BOW6mplq14": {
+    "query": "Subscribe to new videos",
+    "query_type": "ocr"
+  },
+  "train_000390_M8PdF39O-2Y": {
+    "query": "Vinegar microwave cleaning method",
+    "query_type": "ocr"
+  },
+  "train_000466_dVeoftfSf3E": {
+    "query": "Russell's philosophy on human vs animal happiness",
+    "query_type": "ocr"
+  },
+  "train_000726_9w3DvPLj_-g": {
+    "query": "DirectX download for Windows",
+    "query_type": "ocr"
+  },
+  "train_000619_GS9MzqBfH4c": {
+    "query": "Meaning of applause and cheers",
+    "query_type": "ocr"
+  },
+  "train_000692_anOtTA2tfeg": {
+    "query": "Alto's Adventure gameplay",
+    "query_type": "ocr"
+  },
+  "train_000367_aX6kOPpuSN4": {
+    "query": "Duet Display for iPad and Mac",
+    "query_type": "ocr"
+  },
+  "train_000552_In-fVKDmtEM": {
+    "query": "Taiwan news report on politicalization of sports",
+    "query_type": "ocr"
+  },
+  "train_000962_EDKvf6z96ss": {
+    "query": "Line-Yahoo Japan merger announcement",
+    "query_type": "ocr"
+  },
+  "train_000682_Mmei6eeLdZE": {
+    "query": "Roger Federer's early football ambitions",
+    "query_type": "ocr"
+  },
+  "train_000428_2Lum_BzcCPA": {
+    "query": "Unidentified COVID-19 cases in Gwangju",
+    "query_type": "ocr"
+  },
+  "train_000373_0JDMlWk9MRA": {
+    "query": "Donation information for Mission of Christ Church",
+    "query_type": "ocr"
+  },
+  "train_000289_djcPvau5GBU": {
+    "query": "Video editing software tutorial",
+    "query_type": "ocr"
+  },
+  "train_000081_LtnG1XWXK6Y": {
+    "query": "China International Aviation and Aerospace Exhibition 2023",
+    "query_type": "ocr"
+  },
+  "train_000350_lD3yOJfIVyo": {
+    "query": "Kevin McCarthy on January 6th investigation",
+    "query_type": "ocr"
+  },
+  "train_000303_cH3dg-ycSjM": {
+    "query": "euronews reports",
+    "query_type": "ocr"
+  },
+  "train_000294_bdy1_wV1c2g": {
+    "query": "Indian classical dance performance",
+    "query_type": "ocr"
+  },
+  "train_000286_I--BPBc_WuM": {
+    "query": "Snake catching in the desert",
+    "query_type": "ocr"
+  },
+  "train_000049_DhpjPAaMX9Q": {
+    "query": "Recipe for a sweet bread",
+    "query_type": "ocr"
+  },
+  "train_000415_uXgS00MLcho": {
+    "query": "Missing context.",
+    "query_type": "ocr"
+  },
+  "train_000413_PNfwpKfFNxA": {
+    "query": "YPO CEO survey negative business outlook",
+    "query_type": "ocr"
+  },
+  "train_000988_UlmpZdljAGc": {
+    "query": "Tourism development in Rajouri, Jammu and Kashmir",
+    "query_type": "ocr"
+  },
+  "train_000132_tbTe-55OAGY": {
+    "query": "Drunk driver hits pedestrians Taiwan",
+    "query_type": "ocr"
+  },
+  "train_000381_Nb9qGFlPOjA": {
+    "query": "Cooking tips for kitchen beginners",
+    "query_type": "ocr"
+  },
+  "train_000019_AMF8svqyq7Q": {
+    "query": "Korean livestream chat about \"Shissaru\"",
+    "query_type": "ocr"
+  },
+  "train_000087_NbiBctOAL2s": {
+    "query": "Japanese calligraphy tutorial",
+    "query_type": "ocr"
+  },
+  "train_000506_PGdEteOX61w": {
+    "query": "Elektrostal Club Trophy men's EuroHockey tournament",
+    "query_type": "ocr"
+  },
+  "train_000190_UNkgjQm06sY": {
+    "query": "Philippe Lhermie interview on central bank exchange policies",
+    "query_type": "ocr"
+  },
+  "train_000705_1-ppsGA4nqA": {
+    "query": "Korean poisonous bee venom in alcohol",
+    "query_type": "ocr"
+  },
+  "train_000253_CpY1QeyHJvU": {
+    "query": "Polish missile strike investigation results",
+    "query_type": "ocr"
+  },
+  "train_000764_xqe2EBYAuOQ": {
+    "query": "Travel agency in Uvira, Democratic Republic of Congo",
+    "query_type": "ocr"
+  },
+  "train_000895_fMkaF2ydEuc": {
+    "query": "Japanese woodblock printing",
+    "query_type": "ocr"
+  },
+  "train_000298_eVeiNWHh7TA": {
+    "query": "Australian employer sponsored permanent residency visa requirements",
+    "query_type": "ocr"
+  },
+  "train_001042_kBDwb_r4368": {
+    "query": "Russian labor shortage after partial mobilization",
+    "query_type": "ocr"
+  },
+  "train_000119_aQwDMiRCUQs": {
+    "query": "Eyelash dye and eyebrow tinting tutorial",
+    "query_type": "ocr"
+  },
+  "train_000617_ZL2RvnqlEIE": {
+    "query": "Motorola E20 hard reset",
+    "query_type": "ocr"
+  },
+  "train_000746_QTO3QTZkgcA": {
+    "query": "Smoke generator for \u043a\u043e\u043f\u0442\u0438\u043b\u043d\u0438",
+    "query_type": "ocr"
+  },
+  "train_000027_7q6Sg_6dInM": {
+    "query": "Wedding guest get ready with me",
+    "query_type": "ocr"
+  },
+  "train_000073__8W6Vwy_1kg": {
+    "query": "London tourist attractions with KKday",
+    "query_type": "ocr"
+  },
+  "train_000812_254-sF0vPx8": {
+    "query": "dubsmash tutorial",
+    "query_type": "ocr"
+  },
+  "train_001038_fg0Em3yQ-uU": {
+    "query": "NTEE TEE video",
+    "query_type": "ocr"
+  },
+  "train_000120_fj6bF3sewV4": {
+    "query": "Game item prices and trading post",
+    "query_type": "ocr"
+  },
+  "train_000375_vlvMtCOD4Hc": {
+    "query": "Dalian summer cuisine recipe",
+    "query_type": "ocr"
+  },
+  "train_000883_KYrBz5iU9Gg": {
+    "query": "Do not sleep",
+    "query_type": "ocr"
+  },
+  "train_000653_mlO_Uf6s7Yk": {
+    "query": "Park Geun-hye impeachment investigation",
+    "query_type": "ocr"
+  },
+  "train_000670_8Xqx7Atx0LA": {
+    "query": "Kang Min-kyung shopping mall low salary controversy",
+    "query_type": "ocr"
+  },
+  "train_000393_uszQ1Q_iHuY": {
+    "query": "Kim Soon-hwa receives award from Gyeongbuk Province",
+    "query_type": "ocr"
+  },
+  "train_000230_phzl0naZywY": {
+    "query": "Gaziantep assault of elderly Syrian woman",
+    "query_type": "ocr"
+  },
+  "train_000166_OH_tJT6uwRs": {
+    "query": "Avoid carbonated drinks on airplanes",
+    "query_type": "ocr"
+  },
+  "train_000870_2iddu-iWxFM": {
+    "query": "Tamil language video",
+    "query_type": "ocr"
+  },
+  "train_000752_IWDJVm5q3T4": {
+    "query": "Unknown video content",
+    "query_type": "ocr"
+  },
+  "train_000672_7alpErgpXFY": {
+    "query": "Building trust and communication skills",
+    "query_type": "ocr"
+  },
+  "train_000470_3dcFYUVa18s": {
+    "query": "North Korea missile launch February 2023",
+    "query_type": "ocr"
+  },
+  "train_000703_xJJsoquu70o": {
+    "query": "Dog training tips for puppies",
+    "query_type": "ocr"
+  },
+  "train_000531_uFKML4HmP5s": {
+    "query": "Taiwanese manufacturing equipment",
+    "query_type": "ocr"
+  },
+  "train_000371_m_GH0I5eP9M": {
+    "query": "Afghanistan economic collapse and banking restrictions",
+    "query_type": "ocr"
+  },
+  "train_000753_DJhCpJ7E4FY": {
+    "query": "Trump demands increased South Korea defense spending",
+    "query_type": "ocr"
+  },
+  "train_001054_fbjYcAKwEYg": {
+    "query": "Lithium-sulfur battery development LG Chemical",
+    "query_type": "ocr"
+  },
+  "train_000400_TAZTB5PX-5g": {
+    "query": "Jeong Se-kyun on profit sharing",
+    "query_type": "ocr"
+  },
+  "train_000625_WckuKSDrQHQ": {
+    "query": "Empty video",
+    "query_type": "ocr"
+  },
+  "train_001073_zkhncNo55VQ": {
+    "query": "Windows 10 printer port selection",
+    "query_type": "ocr"
+  },
+  "train_001054_BYD_uHmhnm0": {
+    "query": "Trump announces 2024 presidential campaign",
+    "query_type": "ocr"
+  },
+  "train_000547_UJol8VpbhC0": {
+    "query": "Korean high school debate class",
+    "query_type": "ocr"
+  },
+  "train_001002_LSqiLgo-fzE": {
+    "query": "Jewelry collection slideshow",
+    "query_type": "ocr"
+  },
+  "train_000737_JUcwxHNDXAg": {
+    "query": "Construction workers protesting and receiving pay for doing nothing",
+    "query_type": "ocr"
+  },
+  "train_000541_ZUMsDNNx-5E": {
+    "query": "US Congressional inquiry into Ukraine funding",
+    "query_type": "ocr"
+  },
+  "train_000140_izS4cM51cII": {
+    "query": "Precise wheel rotation without scripting",
+    "query_type": "ocr"
+  },
+  "train_001024_Moq0aOiTUOA": {
+    "query": "Weekly news report",
+    "query_type": "ocr"
+  },
+  "train_000783_LVGbEsl1Owo": {
+    "query": "Unknown video content",
+    "query_type": "ocr"
+  },
+  "train_000692_KD-ch5s6mNY": {
+    "query": "Kids dance tutorial",
+    "query_type": "ocr"
+  },
+  "train_000003_f5atnHhHljM": {
+    "query": "DaVinci Resolve timeline preview not showing image fix",
+    "query_type": "speech"
+  },
+  "train_000637_xKdtcN5U3_0": {
+    "query": "Instrumental music loop",
+    "query_type": "speech"
+  },
+  "train_000557_5LOgk2Wa-c8": {
+    "query": "Hangzhou National Grand Plaza assault incident",
+    "query_type": "speech"
+  },
+  "train_000792_H96D7CaHpY8": {
+    "query": "Animal Crossing time travel interest rate changes",
+    "query_type": "speech"
+  },
+  "train_000816_I0tQhmepzxg": {
+    "query": "Rope press down exercise form tips",
+    "query_type": "speech"
+  },
+  "train_000955_gSoiCwahhBM": {
+    "query": "Betta fish breeding and colors",
+    "query_type": "speech"
+  },
+  "train_001017_blTjt8Kcav8": {
+    "query": "How to maintain crispness when cooking connamul rice",
+    "query_type": "speech"
+  },
+  "train_000670_WhVJpeybzmo": {
+    "query": "Illegal business practices and extortion at auction",
+    "query_type": "speech"
+  },
+  "train_000820_kXXlYSNEGWw": {
+    "query": "Nigeria kidnapping statistics 2023 first quarter",
+    "query_type": "speech"
+  },
+  "train_000458_CiIzTQe_5ng": {
+    "query": "Russian weather forecast November 7th",
+    "query_type": "speech"
+  },
+  "train_000535_ozhA-ayBPRw": {
+    "query": "Luxury brand endorsement meeting arranged",
+    "query_type": "speech"
+  },
+  "train_000280_qNQVYSm8Qgw": {
+    "query": "Raleigh holiday parade float crash charges",
+    "query_type": "speech"
+  },
+  "train_000582_thbUPKx0H9Q": {
+    "query": "Rowley's snake-like movement training technique",
+    "query_type": "speech"
+  },
+  "train_000714_OOgJ_qNbTcI": {
+    "query": "Galapagos spotted spiny lobster behavior",
+    "query_type": "speech"
+  },
+  "train_000440__PDbbfMdKDI": {
+    "query": "Organic Servant fans booing during performance",
+    "query_type": "speech"
+  },
+  "train_000834_qWVrdyqNjVE": {
+    "query": "Building a toy railway with Max and Bosch",
+    "query_type": "speech"
+  },
+  "train_000971_pFJa23AA4OQ": {
+    "query": "Turbine balancing issues and factory quality control",
+    "query_type": "speech"
+  },
+  "train_000933_IBanWcqN2rQ": {
+    "query": "4th supplementary budget negotiations and communication cost support",
+    "query_type": "speech"
+  },
+  "train_000690_Jv3jkF9c0Dk": {
+    "query": "Windows Phone app installation error fix",
+    "query_type": "speech"
+  },
+  "train_001068_qJHe1W_w6fY": {
+    "query": "Pay-what-you-want pricing model",
+    "query_type": "speech"
+  },
+  "train_000349_a4VGMjXuT1c": {
+    "query": "Philosophical reasoning on same-sex marriage rights",
+    "query_type": "speech"
+  },
+  "train_000142_d22XFJxdjXY": {
+    "query": "Charging an electric car with a portable power station",
+    "query_type": "speech"
+  },
+  "train_000848_1nWHjyCKFvU": {
+    "query": "Steve Mays corner stoppage",
+    "query_type": "speech"
+  },
+  "train_000744_LJ_x8j8GKdY": {
+    "query": "Thank you for watching compilation",
+    "query_type": "speech"
+  },
+  "train_000605_fZ5_JemI6M8": {
+    "query": "Korean ballad about heartbreak and lost love",
+    "query_type": "speech"
+  },
+  "train_000093_Bqhg1yrCvZ4": {
+    "query": "Ski jumping tutorial in Japanese",
+    "query_type": "speech"
+  },
+  "train_000323_9b8sLYISem0": {
+    "query": "Frog pose push-up tutorial",
+    "query_type": "speech"
+  },
+  "train_000207_gCV2BFDklkc": {
+    "query": "Korean man discusses financial hardship and travel",
+    "query_type": "speech"
+  },
+  "train_000381_MBUH33vigJU": {
+    "query": "Bog Moey Stadii summer camp for exam preparation",
+    "query_type": "speech"
+  },
+  "train_000563_lr_dij9umTE": {
+    "query": "Fixing incorrect username or password error Windows",
+    "query_type": "speech"
+  },
+  "train_000157_kbjqjmK9Qmo": {
+    "query": "Gwangju city\u2019s broken promises to improve sanitation worker safety",
+    "query_type": "speech"
+  },
+  "train_000640_fTNkWohxo-U": {
+    "query": "Mizuno Wave Xceed Tour 5 tongue discomfort",
+    "query_type": "speech"
+  },
+  "train_000336_h22j4uXZ9I0": {
+    "query": "YouBuy Car Java application features",
+    "query_type": "speech"
+  },
+  "train_000061_xQL5p-8SL3k": {
+    "query": "Taiwan local governments' stance on pork labeling",
+    "query_type": "speech"
+  },
+  "train_000088_BZAE6Uca_To": {
+    "query": "Recent South Korean fire incidents",
+    "query_type": "speech"
+  },
+  "train_000606_ML4yeLQzf5c": {
+    "query": "Thank you for watching",
+    "query_type": "speech"
+  },
+  "train_000236_e7K5KvCULeY": {
+    "query": "N/A",
+    "query_type": "speech"
+  },
+  "train_000524_dksiti6PJvk": {
+    "query": "PLA military exercise breakthroughs",
+    "query_type": "speech"
+  },
+  "train_000347_hcSTXgmLAlw": {
+    "query": "Artificial nests for Chinese mergansers",
+    "query_type": "speech"
+  },
+  "train_000067_UVasSZi7rfY": {
+    "query": "The Dash vs The Professional soccer balls review",
+    "query_type": "speech"
+  },
+  "train_000202_ng5v9RYP6F0": {
+    "query": "Bond duration and convexity explained",
+    "query_type": "speech"
+  },
+  "train_000350_JPu61lHOVUM": {
+    "query": "Trump refuses to concede election",
+    "query_type": "speech"
+  },
+  "train_000810_mHvmNIA6Rjk": {
+    "query": "New equipment implemented at the machine building company",
+    "query_type": "speech"
+  },
+  "train_000532_Jn_sPizSr9s": {
+    "query": "Johnny Depp sexual violence allegations detailed",
+    "query_type": "speech"
+  },
+  "train_001012_J2FMBJJPqzY": {
+    "query": "Song lyrics about street violence",
+    "query_type": "speech"
+  },
+  "train_000923_zaRiFubveBw": {
+    "query": "Samur River water intake station protests",
+    "query_type": "speech"
+  },
+  "train_000115_85Chu3enLlo": {
+    "query": "Orthodox Jewish women's clothing restrictions",
+    "query_type": "speech"
+  },
+  "train_000490_-TfBzaT5nJ8": {
+    "query": "Repurposing broken plastic crates for garden decor",
+    "query_type": "speech"
+  },
+  "train_000884_JrT5AzdoUU4": {
+    "query": "TPP signing ceremony in Auckland",
+    "query_type": "speech"
+  },
+  "train_000252_y9I-pmj1QL0": {
+    "query": "Zhongshan Cuibai New District property prices",
+    "query_type": "speech"
+  },
+  "train_000169_IqPaDNX9cNM": {
+    "query": "Focus on Jin Yu during strategy session",
+    "query_type": "speech"
+  },
+  "train_000045_ZfGTR9plEK8": {
+    "query": "WebRTC end-to-end encrypted video chat website",
+    "query_type": "speech"
+  },
+  "train_001003_80Me8F01b3A": {
+    "query": "Kyiv residential building rocket strike",
+    "query_type": "speech"
+  },
+  "train_000459_4xBxz1AzDN4": {
+    "query": "Chinese martial arts traditions and cultural heritage",
+    "query_type": "speech"
+  },
+  "train_000889_hSjbJ6LjIGk": {
+    "query": "Japanese morning greetings",
+    "query_type": "speech"
+  },
+  "train_000202_nb3CxyU8qc0": {
+    "query": "Richmond BC garbage and recycling guide",
+    "query_type": "speech"
+  },
+  "train_000951_ZfiSft5kadU": {
+    "query": "Kyrgyzstan car import tariff increase",
+    "query_type": "speech"
+  },
+  "train_000794_uCMcjriUjzg": {
+    "query": "Proletariy porcelain factory museum",
+    "query_type": "speech"
+  },
+  "train_000042_rOqMID_hpsw": {
+    "query": "Hoverboard used in South London robbery",
+    "query_type": "speech"
+  },
+  "train_000343_Wr0RpFNmq28": {
+    "query": "Li Zongsheng - Unable to Withstand the Critical Strike lyrics",
+    "query_type": "speech"
+  },
+  "train_000348_7x0KtRchx2I": {
+    "query": "Kitchen measurement guide for remodeling",
+    "query_type": "speech"
+  },
+  "train_000758_-gTF3TJ_92E": {
+    "query": "Using salt as fertilizer for currant bushes",
+    "query_type": "speech"
+  },
+  "train_000697__Y0ZXeJ2f8k": {
+    "query": "Japanese typhoon disrupting soy sauce supply",
+    "query_type": "speech"
+  },
+  "train_000227_tXatYZOb9jM": {
+    "query": "How to make Chinese \u5f00\u53e3\u9165 (K\u0101ik\u01d2u s\u016b)",
+    "query_type": "speech"
+  },
+  "train_000348_Ws50_a7Lx3M": {
+    "query": "Xanoluca intimate gel advertisement",
+    "query_type": "speech"
+  },
+  "train_000771_vQL2k9y5Zkg": {
+    "query": "Song lyrics about starting a fire",
+    "query_type": "speech"
+  },
+  "train_000801_Yz0KheMgryI": {
+    "query": "Kenya Finance Bill 2022 tax increases",
+    "query_type": "speech"
+  },
+  "train_000007_PZBY1_zuIwo": {
+    "query": "Performance verification satellite launch sequence",
+    "query_type": "speech"
+  },
+  "train_000820_1cy3SCm2qqc": {
+    "query": "Hong Kong land reclamation and developer responses",
+    "query_type": "speech"
+  },
+  "train_000975_umNY_IF0Rdk": {
+    "query": "Thank you speech",
+    "query_type": "speech"
+  },
+  "train_000388_JJ8FZYx15rc": {
+    "query": "Growing and harvesting Huang Guniang fruit",
+    "query_type": "speech"
+  },
+  "train_001012_PI3oNQoxeno": {
+    "query": "Pamanex 6S quality process standards",
+    "query_type": "speech"
+  },
+  "train_000197_RZ9pAedTSTo": {
+    "query": "Khmer language speech analysis",
+    "query_type": "speech"
+  },
+  "train_000057_Nyq10d5BPxs": {
+    "query": "Russian opposition party registration denial",
+    "query_type": "speech"
+  },
+  "train_000373_X0ppV2SkiQ8": {
+    "query": "How to clear cache and cookies in Google Chrome",
+    "query_type": "speech"
+  },
+  "train_001072_ual-YhlHy9o": {
+    "query": "Excel file to webpage for blog post",
+    "query_type": "speech"
+  },
+  "train_000213_A2_0ZMzVwDA": {
+    "query": "Thank you for watching video",
+    "query_type": "speech"
+  },
+  "train_000569_FZnM_CSCCx4": {
+    "query": "Instrumental music clip",
+    "query_type": "speech"
+  },
+  "train_000981_Jc0ukc1bZu0": {
+    "query": "South Korean health officials on herd immunity",
+    "query_type": "speech"
+  },
+  "train_000349_02m7TTf_NNw": {
+    "query": "Taipei City\u656c\u8001\u91d1 card vs cash debate",
+    "query_type": "speech"
+  },
+  "train_000782_6xaKyGYIP9Y": {
+    "query": "LH buying homes from jeonse fraud victims",
+    "query_type": "speech"
+  },
+  "train_000847_TXsq_yUU01k": {
+    "query": "Na'Vi Junior esports team recruitment process",
+    "query_type": "speech"
+  },
+  "train_000024_RLnv6yI0TvE": {
+    "query": "How to burn music to a CD using Windows Media Player",
+    "query_type": "speech"
+  },
+  "train_000890_v10A5wefgT8": {
+    "query": "Jeong Kyung-sim arrest warrant issued",
+    "query_type": "speech"
+  },
+  "train_000850_5GQ-TFonTVQ": {
+    "query": "Importance of study habits and small daily accumulation",
+    "query_type": "speech"
+  },
+  "train_000371_0X-qsKD_U9U": {
+    "query": "Grapefruit and medication interactions",
+    "query_type": "speech"
+  },
+  "train_000391_EM_LtfuqUWU": {
+    "query": "Office worker declining coworker's invitation to lunch",
+    "query_type": "speech"
+  },
+  "train_000539_gI5JKhoZbYs": {
+    "query": "Korean dessert recipe with cheese",
+    "query_type": "speech"
+  },
+  "train_001005_XR-fnBwX9uM": {
+    "query": "Social enterprise certification requirements in South Korea",
+    "query_type": "speech"
+  },
+  "train_000157_MQNNuynI6_U": {
+    "query": "How to change date and time on Windows 11",
+    "query_type": "speech"
+  },
+  "train_000645_gtkFhHnVBKo": {
+    "query": "Correcting flutter kicks in swimming instruction",
+    "query_type": "speech"
+  },
+  "train_000111_Xfl2O96iqwQ": {
+    "query": "Driver refusing to unload cargo without upfront payment",
+    "query_type": "speech"
+  },
+  "train_000412_bQOh45ijflQ": {
+    "query": "Homemade cappuccino recipe without a coffee machine",
+    "query_type": "speech"
+  },
+  "train_000268_AHSY9Y_cgDc": {
+    "query": "How to cut a pineapple shown",
+    "query_type": "speech"
+  },
+  "train_000677_xXgP7jqlhPo": {
+    "query": "Team O's \"Who are you?\" video",
+    "query_type": "speech"
+  },
+  "train_000442_D0OjBZmorzo": {
+    "query": "Convert S Pen handwriting to text on Samsung Galaxy S22 Ultra",
+    "query_type": "speech"
+  },
+  "train_000389_fPrqznH4q6w": {
+    "query": "Foreign reactions to question about India being Asia's strongest country",
+    "query_type": "speech"
+  },
+  "train_000017_0Cr0eU1_i9Q": {
+    "query": "Myoko City tourism rebound after COVID-19 restrictions",
+    "query_type": "speech"
+  },
+  "train_000303_HiQM1eeGjXs": {
+    "query": "Taldom district construction project meeting progress",
+    "query_type": "speech"
+  },
+  "train_000218_P_SuU1CtJg0": {
+    "query": "SuperCache plugin WordPress tutorial",
+    "query_type": "speech"
+  },
+  "train_000839_sMybsRNjwZA": {
+    "query": "Differences between expensive and budget microwaves",
+    "query_type": "speech"
+  },
+  "train_000789_GYTsLeBBNXM": {
+    "query": "Fake cigarette smuggling crackdown",
+    "query_type": "speech"
+  },
+  "train_000837_zEyo1ZdhemE": {
+    "query": "Korean family reunions at the DMZ",
+    "query_type": "speech"
+  },
+  "train_000242_XQwN1Uv4kA4": {
+    "query": "Russian Central Bank\u2019s proposed frozen deposit scheme",
+    "query_type": "speech"
+  },
+  "train_000574_piiXU-FHML0": {
+    "query": "Amara.org community subtitling",
+    "query_type": "speech"
+  },
+  "train_000222_Vl9EDxPijng": {
+    "query": "Dog training walking next to owner",
+    "query_type": "speech"
+  },
+  "train_000204_EIppfMAx9SY": {
+    "query": "Obu University American football team drinking incident",
+    "query_type": "speech"
+  },
+  "train_000932_NTbYgOL3Q6I": {
+    "query": "Virat Kohli stepping down as captain",
+    "query_type": "speech"
+  },
+  "train_000446_cmt8idXx28s": {
+    "query": "Preventing bedsores in patients",
+    "query_type": "speech"
+  },
+  "train_000707_HY30Eq4QFZA": {
+    "query": "Essential bicycle repair tools for road trips",
+    "query_type": "speech"
+  },
+  "train_000370_z6_5WfasV-o": {
+    "query": "Unboxing of a One Piece Thousand Sunny model kit",
+    "query_type": "speech"
+  },
+  "train_000726_8KV8at9qQmw": {
+    "query": "Two-touch soccer game with rules explained",
+    "query_type": "speech"
+  },
+  "train_000954__hiLpp8QbNc": {
+    "query": "Korean phrase for \"I want to go for a walk\"",
+    "query_type": "speech"
+  },
+  "train_000901_BCsh-dC6Pd8": {
+    "query": "First-generation new town redevelopment plan South Korea",
+    "query_type": "description"
+  },
+  "train_000844__lfnZCM4BOY": {
+    "query": "Ise lobster gratin recipe Fukushima Japan",
+    "query_type": "description"
+  },
+  "train_000883_SuoRfuI1IPM": {
+    "query": "How to cut watermelon",
+    "query_type": "description"
+  },
+  "train_000744_9gpm1EsgUbI": {
+    "query": "English assignment for 11th grade PSPT students SMK 1 Kendal",
+    "query_type": "description"
+  },
+  "train_000518_FQNKZOjR9to": {
+    "query": "Free Fire hideout event 9 diamond elite pass",
+    "query_type": "description"
+  },
+  "train_000885_mlQLLkN4AFI": {
+    "query": "Gaming livestream highlights",
+    "query_type": "description"
+  },
+  "train_000664_KoVct2Lyhvg": {
+    "query": "Herlay Divine teaching on finding joy in every season",
+    "query_type": "description"
+  },
+  "train_001002_ZqCYklj_ttg": {
+    "query": "Spanish triathlon athlete helps competitor",
+    "query_type": "description"
+  },
+  "train_001058_SbwRY5CKGyg": {
+    "query": "How to deal with competition in life",
+    "query_type": "description"
+  },
+  "train_000546_TsjyIbNEKww": {
+    "query": "Ground beef recipe with potatoes and mozzarella",
+    "query_type": "description"
+  },
+  "train_000417_9aVIGNfic6E": {
+    "query": "Chinese soccer bloopers 2019",
+    "query_type": "description"
+  },
+  "train_000734_MtwjjkSt9TY": {
+    "query": "Korean taxi drivers confirmed with COVID-19",
+    "query_type": "description"
+  },
+  "train_001026_mtGqf8teRYg": {
+    "query": "Facial asymmetry correction maintenance",
+    "query_type": "description"
+  },
+  "train_001027_65SeUDJSVDg": {
+    "query": "Alcohol in breast milk after drinking one drink",
+    "query_type": "description"
+  },
+  "train_000122__d92D2cTNBw": {
+    "query": "How to make erasers into miniature objects",
+    "query_type": "description"
+  },
+  "train_000986_4VdFP23JdCA": {
+    "query": "Italian verb tirare pronunciation",
+    "query_type": "description"
+  },
+  "train_000658_LKzaiQr05Lw": {
+    "query": "Odessa film studio shooting Tarantella Late Autumn",
+    "query_type": "description"
+  },
+  "train_000976_w55vtZOWBa0": {
+    "query": "SQL query to check order fulfillment with reduced stock",
+    "query_type": "description"
+  },
+  "train_000227_CBK-zoHktBk": {
+    "query": "Chinese music playlist links",
+    "query_type": "description"
+  },
+  "train_000436_hqqi_7jJh4A": {
+    "query": "Reborn Rich Jin Yang-cheol angry at Sunyang assets",
+    "query_type": "description"
+  },
+  "train_000933_2TxtkizDIxU": {
+    "query": "Why do humans remember unimportant things",
+    "query_type": "description"
+  },
+  "train_001058_2-eq_lUXKRQ": {
+    "query": "Korean military exercise Peace Maker operation",
+    "query_type": "description"
+  },
+  "train_000402_QjsX8slEPro": {
+    "query": "Bajiquan footwork techniques",
+    "query_type": "description"
+  },
+  "train_000132_Q_sMP30BM4A": {
+    "query": "Joel Suggs video analysis date",
+    "query_type": "description"
+  },
+  "train_000857_PAXd1Y7gVA4": {
+    "query": "Lightning strike hitting truck on highway",
+    "query_type": "description"
+  },
+  "train_000022_1BEO83SavMQ": {
+    "query": "China\u2019s position on the Ukraine crisis debunked",
+    "query_type": "description"
+  },
+  "train_000466_82CUeagGvFs": {
+    "query": "Shenzhen Xunwei Vocational Skills Training Center location",
+    "query_type": "description"
+  },
+  "train_000925_gdfpYbBVeCU": {
+    "query": "Two-dimensional wireless power transfer device",
+    "query_type": "description"
+  },
+  "train_000344_bcOyzGCBOcQ": {
+    "query": "Will Koh Misook marry Hong Jin-ah and her son?",
+    "query_type": "description"
+  },
+  "train_000453_puZCQG3BZZ0": {
+    "query": "Automatic cancellation of food delivery orders",
+    "query_type": "description"
+  },
+  "train_000545_tc6XNTlCcqI": {
+    "query": "Taiwanese presidential candidates Ko Wen-je and Chen Shih-chung after Wan Hua shooting",
+    "query_type": "description"
+  },
+  "train_000902_awp0Y95D17g": {
+    "query": "How to cast on knitting stitches for beginners",
+    "query_type": "description"
+  },
+  "train_000141_diSM0zoyUzE": {
+    "query": "Survival game explorer Dig brother",
+    "query_type": "description"
+  },
+  "train_000184_IzoFAYjIT5Q": {
+    "query": "Chiki birthday song",
+    "query_type": "description"
+  },
+  "train_000987_o6o7fSrQl-E": {
+    "query": "Malaysian state election SOP regarding campaigning",
+    "query_type": "description"
+  },
+  "train_000550_zsPGd3rvmf8": {
+    "query": "Moroccan women using sheep to create future",
+    "query_type": "description"
+  },
+  "train_000277_WT31cdEcBVA": {
+    "query": "Taiwan students using smart drugs to improve grades",
+    "query_type": "description"
+  },
+  "train_000329_YP04GKKL_Mw": {
+    "query": "Princess Connect! Re:Dive tier list",
+    "query_type": "description"
+  },
+  "train_000280_lRRNrp63Xow": {
+    "query": "Jeollabuk-do Development Corporation employee hiring mismanagement",
+    "query_type": "description"
+  },
+  "train_000205_NKUSpyF0Imk": {
+    "query": "China extreme weather events Guangdong rainfall and Henan heatwave",
+    "query_type": "description"
+  },
+  "train_001045_A1w0_MlJ9UY": {
+    "query": "Over 20,000 items available at ZabTV store",
+    "query_type": "description"
+  },
+  "train_000646_wlF2nl__yVA": {
+    "query": "LOBODA Allo music video credits",
+    "query_type": "description"
+  },
+  "train_000223_blArl4UGHMI": {
+    "query": "Six foods to lower cholesterol",
+    "query_type": "description"
+  },
+  "train_000237_jHbCKFUMSd8": {
+    "query": "How to extinguish a campfire safely",
+    "query_type": "description"
+  },
+  "train_000917_Y1njgsxAhl0": {
+    "query": "Korean grain management law effect on rice prices",
+    "query_type": "description"
+  },
+  "train_000127_WQy0yrFvF-Y": {
+    "query": "Thai lottery vendors protest delayed draw date",
+    "query_type": "description"
+  },
+  "train_000157_hUqs5ltEdJc": {
+    "query": "How to open a window",
+    "query_type": "description"
+  },
+  "train_000049_p5eC_EwOb04": {
+    "query": "ACRU quarantine music video",
+    "query_type": "description"
+  },
+  "train_000225_PJ5RwxoglMw": {
+    "query": "Should you flush your engine when changing the oil?",
+    "query_type": "description"
+  },
+  "train_000682_uiEsRTzptbg": {
+    "query": "San Francisco City Hall lit up in Ukrainian flag colors",
+    "query_type": "description"
+  },
+  "train_000494_uV_M4ru0HHk": {
+    "query": "Identity V game character release order",
+    "query_type": "description"
+  },
+  "train_001025_Ika0ECNb2UA": {
+    "query": "Crimea geological expedition 2020",
+    "query_type": "description"
+  },
+  "train_000492_dP2YjcLvt9k": {
+    "query": "Joshua Holt released from Venezuelan prison",
+    "query_type": "description"
+  },
+  "train_000661_YpxwGMh5lHo": {
+    "query": "BJ K addressing Itaewon incident claims",
+    "query_type": "description"
+  },
+  "train_000802_CH3ZO1nRNxM": {
+    "query": "Korean country home and development information",
+    "query_type": "description"
+  },
+  "train_000940_EPj2ERXw68A": {
+    "query": "Do people still watch TV nowadays?",
+    "query_type": "description"
+  },
+  "train_001080_EV70-b_O7CQ": {
+    "query": "BJ Karu's AfreecaTV channel",
+    "query_type": "description"
+  },
+  "train_000390_n0PjWPk2GnQ": {
+    "query": "Happy Mahua comedy company future improvements",
+    "query_type": "description"
+  },
+  "train_000528_uP1dncojxc8": {
+    "query": "If the Voice has Memory episode 7 preview",
+    "query_type": "description"
+  },
+  "train_000856_rDithUYJs_0": {
+    "query": "Baby laughing compilation",
+    "query_type": "description"
+  },
+  "train_000298_VoSVmrwlvMU": {
+    "query": "Huang Xiaoyun performing Left Finger Moon",
+    "query_type": "description"
+  },
+  "train_000442_0DwgKZ2A64g": {
+    "query": "UNESCO 8 steps for recognizing higher education qualifications",
+    "query_type": "description"
+  },
+  "train_000833_S_IGHgBaKLI": {
+    "query": "Body armor-clad shooter at store",
+    "query_type": "description"
+  },
+  "train_000311_0eyOKsv8Xv8": {
+    "query": "CCTV Chinese International Channel news program",
+    "query_type": "description"
+  },
+  "train_000674_G9WsSHJQX8w": {
+    "query": "Krasnoyarsk police arrest suspects in 1.5 million ruble theft from 90-year-old",
+    "query_type": "description"
+  },
+  "train_000252_OrppBoflVUM": {
+    "query": "Summer vegetable pasta recipe",
+    "query_type": "description"
+  },
+  "train_000448_cH284eokfWU": {
+    "query": "\u897f\u5b89\u5e02 BA.5.2 variant cases",
+    "query_type": "description"
+  },
+  "train_000718_fuhDBusOirA": {
+    "query": "Postnatal care worker abuse case caught on CCTV",
+    "query_type": "description"
+  },
+  "train_000544_NvngDNsJrHU": {
+    "query": "Goombay Dance Band Sun Of Jamaica 1985",
+    "query_type": "description"
+  },
+  "train_000487_T44r3DCNcUI": {
+    "query": "Scarring medical explanation",
+    "query_type": "description"
+  },
+  "train_000428_F-T4zXmuf6Q": {
+    "query": "Kevin Gates discusses NBA YoungBoy",
+    "query_type": "description"
+  },
+  "train_000868_EILVqJWmdJs": {
+    "query": "Pyeongsa-ri rice paddy football tournament registration",
+    "query_type": "description"
+  },
+  "train_000485_XB6XcYjKm-c": {
+    "query": "Russian law on political campaigning in schools",
+    "query_type": "description"
+  },
+  "train_000640_Y1z0OWo66hM": {
+    "query": "BMX bike frame swirling technique",
+    "query_type": "description"
+  },
+  "train_001073_8FaHxxoIvzY": {
+    "query": "Easy self-install flooring for entryway",
+    "query_type": "description"
+  },
+  "train_000673_OUI3mAI8XK4": {
+    "query": "How to settle due bills in GoFrugal POS",
+    "query_type": "description"
+  },
+  "train_000877_bAAi_3wt_7M": {
+    "query": "Western Australia beach day vlog",
+    "query_type": "description"
+  },
+  "train_000604_QJ01SAMlqDc": {
+    "query": "CoComelon siblings learning together",
+    "query_type": "description"
+  },
+  "train_000259_7fkiJqitmNc": {
+    "query": "Chinese food culture exploration program",
+    "query_type": "description"
+  },
+  "train_000610_Kyh6VK2t37g": {
+    "query": "National Geographic Genius series seasons",
+    "query_type": "description"
+  },
+  "train_000278_AhClaTdTFsA": {
+    "query": "Three part series of a woman pouring milk",
+    "query_type": "description"
+  },
+  "train_000302_2M4oGlD-_m0": {
+    "query": "76th National Athletics Championships Women's 200m Final",
+    "query_type": "description"
+  },
+  "train_000139_OryOwtn9fYQ": {
+    "query": "Maehwasu traditional plum wine",
+    "query_type": "description"
+  },
+  "train_000694_4RZAOHLvY1U": {
+    "query": "Boat trailer features and specifications",
+    "query_type": "description"
+  },
+  "train_000765_t3Ik5JytYYQ": {
+    "query": "Back handspring tutorial for tricking",
+    "query_type": "description"
+  },
+  "train_000042_hBFRYat7AD4": {
+    "query": "Tales of the Abyss Tear solo no damage God Generals",
+    "query_type": "description"
+  },
+  "train_000391_pnFX8c3GhUs": {
+    "query": "Taiwanese baseball game livestream",
+    "query_type": "description"
+  },
+  "train_000509_N44q8DH-wl4": {
+    "query": "Kev\u00e4t Mylly open class event",
+    "query_type": "description"
+  },
+  "train_000844_lh0WstDWn5I": {
+    "query": "Oregon man hides in trash can from police",
+    "query_type": "description"
+  },
+  "train_000246_bSzW0gskiMU": {
+    "query": "Watermelon carving tutorial for beginners",
+    "query_type": "description"
+  },
+  "train_000312_zp7NkExzHMk": {
+    "query": "CCTV international channel news",
+    "query_type": "description"
+  },
+  "train_000386_UTWWkitOsGQ": {
+    "query": "Gominn Jeong asking if Supreme Court rulings are important",
+    "query_type": "description"
+  },
+  "train_000264_qYijxmYl41g": {
+    "query": "German industrial accident prevention system",
+    "query_type": "description"
+  },
+  "train_000716_RGKvTSoN1Uk": {
+    "query": "Ukrainian soldiers lacking food during bridge construction",
+    "query_type": "description"
+  },
+  "train_001076_yFVq0MyzynY": {
+    "query": "Gimpo youth etiquette",
+    "query_type": "description"
+  },
+  "train_000164_c7zxB7fZax8": {
+    "query": "Zero equipment home workout for beginners",
+    "query_type": "description"
+  },
+  "train_000700_Xsdrp0IDhOc": {
+    "query": "Korean factories halting overseas production",
+    "query_type": "description"
+  },
+  "train_001032_IRXeyUPU3jk": {
+    "query": "\uc0bc\ub098\ubb3c \ubb34\uce68 recipe",
+    "query_type": "description"
+  },
+  "train_000541_m_tPrkAsj_Q": {
+    "query": "Rolf GT 5W-40 oil test results",
+    "query_type": "description"
+  },
+  "train_000616_RNrbGFnPlwo": {
+    "query": "North Korea's provocations and South Korea's response",
+    "query_type": "description"
+  },
+  "train_001074_RRl-0r7D3Zg": {
+    "query": "North Korea missile launch December 18 2022",
+    "query_type": "description"
+  },
+  "train_000902_l5frikxNbTE": {
+    "query": "Turkey demands Armenia forget past conflicts",
+    "query_type": "description"
+  },
+  "train_000300_DGvkD7UJBm0": {
+    "query": "DIY motorcycle spike tires for snow",
+    "query_type": "description"
+  },
+  "train_000667_AvQDZua5tfU": {
+    "query": "Anaferon children's drops instructions",
+    "query_type": "description"
+  },
+  "train_000058_y4KWQxnWf5k": {
+    "query": "DIY sculpting experience at a jade carving studio",
+    "query_type": "speech"
+  },
+  "train_000410_el-mtjjYnww": {
+    "query": "Unknown Streets documentary",
+    "query_type": "speech"
+  },
+  "train_000649_B8AA58HRoFs": {
+    "query": "Good evening greeting",
+    "query_type": "speech"
+  },
+  "train_000332_jxS9iOq17n4": {
+    "query": "eBay shopping tips for low-cost items",
+    "query_type": "speech"
+  },
+  "train_000002_3bdZvEo8SDg": {
+    "query": "Virginia lawmakers debate police reform",
+    "query_type": "speech"
+  },
+  "train_000371_455pvhji0Qs": {
+    "query": "University of Oklahoma weather forecasting partnership",
+    "query_type": "speech"
+  },
+  "train_000296_3IZev0NLBGk": {
+    "query": "Life is Feudal game features",
+    "query_type": "speech"
+  },
+  "train_000855_sC_1Km2bbXs": {
+    "query": "Treatment of intestinal infections in children",
+    "query_type": "speech"
+  },
+  "train_000829_VQBx8jEiY-s": {
+    "query": "Motivational speech about perseverance",
+    "query_type": "speech"
+  },
+  "train_000607_BnjPeaPUzmk": {
+    "query": "8 second hair treatment effectiveness",
+    "query_type": "speech"
+  },
+  "train_000238_BfumMkznjtM": {
+    "query": "Vintage Air Rally continental discovery",
+    "query_type": "speech"
+  },
+  "train_000259_lfqEnGQ6Zng": {
+    "query": "Ukraine's progress towards European standards",
+    "query_type": "speech"
+  },
+  "train_000746_tnFXJobyhhI": {
+    "query": "Gunsan Medical Center labor dispute resolution",
+    "query_type": "speech"
+  },
+  "train_000744_ogmb7sNicxs": {
+    "query": "Dajou's luxury car collection",
+    "query_type": "speech"
+  },
+  "train_000705_j1PI6KJ79bg": {
+    "query": "Easy balloon sword tutorial for beginners",
+    "query_type": "speech"
+  },
+  "train_000982_9Lz3t4ON14Q": {
+    "query": "Father\u2019s negative views on women",
+    "query_type": "speech"
+  },
+  "train_000720_BXsWwD4ofi4": {
+    "query": "TI taking daughter to gynecologist controversy",
+    "query_type": "speech"
+  },
+  "train_000729_2FNQDrHuApU": {
+    "query": "Lifestyle Master TV show",
+    "query_type": "speech"
+  },
+  "train_000635_D3ElSjtOhFE": {
+    "query": "DIY paper craft burning design",
+    "query_type": "speech"
+  },
+  "train_000878_wBe0KCQS7iw": {
+    "query": "Yoon Suk-yeol government\u2019s plan to replace ambassadors to the four major powers",
+    "query_type": "speech"
+  },
+  "train_000612_RIgQLpSclIQ": {
+    "query": "Scientific explanation for why women roll their eyes",
+    "query_type": "speech"
+  },
+  "train_000877_sGSSFWC2CyE": {
+    "query": "Brown and Brown Proud to Serve Award recipient Deputy Scott Earhard",
+    "query_type": "speech"
+  },
+  "train_000620_e-qpGWINPiE": {
+    "query": "Choi Jung-seok flirting tactics",
+    "query_type": "speech"
+  },
+  "train_000400_VciKGfpg3so": {
+    "query": "Liability for damage from road debris kicked up by another vehicle",
+    "query_type": "speech"
+  },
+  "train_000997_aYwOVUwvFJk": {
+    "query": "Teen Titans laundry mishap",
+    "query_type": "speech"
+  },
+  "train_000606_HOmx5NFNrkA": {
+    "query": "Husband discovers wife\u2019s infidelity and files for divorce",
+    "query_type": "speech"
+  },
+  "train_000550_YaZzeOVKT-c": {
+    "query": "Separating mixed salt and sugar methods",
+    "query_type": "speech"
+  },
+  "train_000275_rxFtu0FrSmU": {
+    "query": "Genshin Impact June revenue and player suggestions",
+    "query_type": "speech"
+  },
+  "train_000902_n_LLAgggFuc": {
+    "query": "Calculating accrued vacation time upon resignation",
+    "query_type": "speech"
+  },
+  "train_000674_MSsqv96LRrw": {
+    "query": "Military unit ghost story",
+    "query_type": "speech"
+  },
+  "train_001007_YvYkMaf8wvw": {
+    "query": "Ukrainian driver\u2019s license exchange in Poland",
+    "query_type": "speech"
+  },
+  "train_000884_ExWiHcCKX1g": {
+    "query": "Naginata Worry Monk unit guide Total War: Shogun 2",
+    "query_type": "speech"
+  },
+  "train_000150_OVuY3C8aJpM": {
+    "query": "Rocket Girls 101 privacy controversy during live broadcast",
+    "query_type": "speech"
+  },
+  "train_001068_hr9kvYPg-bs": {
+    "query": "Cambodian rice harvest shown",
+    "query_type": "speech"
+  },
+  "train_000941_pXRB_ak_ZOk": {
+    "query": "Cvelade lotion treatment for scabies",
+    "query_type": "speech"
+  },
+  "train_000271_cafVjU9FD-w": {
+    "query": "Taiwan red algal reef referendum",
+    "query_type": "speech"
+  },
+  "train_000742_Esx2tG1n--Q": {
+    "query": "Roblox mobile promo code redemption instructions",
+    "query_type": "speech"
+  },
+  "train_000792_mgQn_MKzSx8": {
+    "query": "Repurposing a beach towel into hand towels",
+    "query_type": "speech"
+  },
+  "train_000898_PKpT10LMUnQ": {
+    "query": "Nebulizer treatment for flu symptoms",
+    "query_type": "speech"
+  },
+  "train_000542_kF5DLJYWlmw": {
+    "query": "Laysan Utyasheva controversy regarding Israeli gymnast",
+    "query_type": "speech"
+  },
+  "train_000196_haov_fhIBN0": {
+    "query": "Strange encounter with a mysterious person",
+    "query_type": "speech"
+  },
+  "train_000543_oxuQCIbtCG0": {
+    "query": "Genshin Impact 3.2 update details",
+    "query_type": "speech"
+  },
+  "train_000299_SykWciwvaV0": {
+    "query": "Difference between \"must\" and \"have to\" in English",
+    "query_type": "speech"
+  },
+  "train_000177_SOre-7-vYxM": {
+    "query": "Chinese stock market priority shares investment requirements",
+    "query_type": "speech"
+  },
+  "train_000425_uLaUOe1vmqU": {
+    "query": "Australian emergency room wait times",
+    "query_type": "speech"
+  },
+  "train_000589_A-92ZvkvR30": {
+    "query": "Support Mingjing and Diandian program",
+    "query_type": "speech"
+  },
+  "train_000996_u8WYp4pAETo": {
+    "query": "Russian State Duma response to Ukrainian bank attacks",
+    "query_type": "speech"
+  },
+  "train_001022_8rIJEqYENVE": {
+    "query": "Scientist defying the Alliance",
+    "query_type": "speech"
+  },
+  "train_000257_MMh-v3CrlAc": {
+    "query": "Upcoming continuation of series",
+    "query_type": "speech"
+  },
+  "train_000823_m8Da6i8VqbQ": {
+    "query": "Russian gas payments in rubles dispute",
+    "query_type": "speech"
+  },
+  "train_000063_w2ZloPk3hhI": {
+    "query": "Benefits of dancing for mental and physical health",
+    "query_type": "speech"
+  },
+  "train_001016_mg9_b98BDgA": {
+    "query": "Committing war crimes joke video",
+    "query_type": "speech"
+  },
+  "train_000275_C1g-PgGiemc": {
+    "query": "Hu Jintao pressured to support Xi Jinping",
+    "query_type": "speech"
+  },
+  "train_000985_dFQsKScnxpk": {
+    "query": "New Orleans Mardi Gras float transport",
+    "query_type": "speech"
+  },
+  "train_000308_CK1e_zHHQv8": {
+    "query": "Wortman VACAM software features",
+    "query_type": "speech"
+  },
+  "train_001029_MusnWxCAA0g": {
+    "query": "LAP vibration dampers and bird protection devices",
+    "query_type": "speech"
+  },
+  "train_000635_lI6kgFGEC3k": {
+    "query": "Early tomato harvest in greenhouse",
+    "query_type": "speech"
+  },
+  "train_000999_0qwgF1-5ybM": {
+    "query": "See you in the next video",
+    "query_type": "speech"
+  },
+  "train_001064_JFSi1MfixJo": {
+    "query": "Korean subtitles by Han Hyoju",
+    "query_type": "speech"
+  },
+  "train_000309_IEgowjV53uc": {
+    "query": "Scout\u2019s battery and SMG issues in game",
+    "query_type": "speech"
+  },
+  "train_000429_x8_KrySbF9I": {
+    "query": "Number of companies that have not submitted audit reports",
+    "query_type": "speech"
+  },
+  "train_000591_UQBZAr6xOjc": {
+    "query": "Land acquisition practices in India",
+    "query_type": "speech"
+  },
+  "train_000520_2dWce6EBKXM": {
+    "query": "Son Doong cave exploration and formation",
+    "query_type": "speech"
+  },
+  "train_000675_HpvMU9Dmd98": {
+    "query": "Bright taste in every sip advertisement",
+    "query_type": "speech"
+  },
+  "train_000526_DK16yHEKRiI": {
+    "query": "Book illustration workflow with Elo Salon",
+    "query_type": "speech"
+  },
+  "train_000710_0IBaGwZ2hXs": {
+    "query": "KFU college logistics operations program",
+    "query_type": "speech"
+  },
+  "train_000101_pkm8BGGIV9k": {
+    "query": "Sweden Queen rose blooming tips",
+    "query_type": "speech"
+  },
+  "train_000466_CZxqeoKcarw": {
+    "query": "Flushing Queens botanical garden electronic waste recycling event",
+    "query_type": "speech"
+  },
+  "train_000802_ywa-RBdBbMg": {
+    "query": "Medical tattoo procedures performed by a doctor",
+    "query_type": "speech"
+  },
+  "train_000352_3Qefh3Tt8tI": {
+    "query": "Moscow park tile replacement with vegetables",
+    "query_type": "speech"
+  },
+  "train_000818_rz5kPRCixdM": {
+    "query": "Android son attacks father and brother",
+    "query_type": "speech"
+  },
+  "train_001080_0tv3ooEWsZ4": {
+    "query": "Sokodomo performing live",
+    "query_type": "speech"
+  },
+  "train_000338_5H52rCgcHfI": {
+    "query": "Rami Levy to purchase Israel airline",
+    "query_type": "speech"
+  },
+  "train_000422_up443mvcVnU": {
+    "query": "Action-air shooting competition in Vladikavkaz",
+    "query_type": "speech"
+  },
+  "train_000262_FrZJmfnRL9E": {
+    "query": "Itaewon Halloween crowd crush and drug use",
+    "query_type": "speech"
+  },
+  "train_000136_HsAhWhnCFZw": {
+    "query": "Georgia Senate runoff election 2022",
+    "query_type": "speech"
+  },
+  "train_000423_2XaWtaWVBsI": {
+    "query": "Talking Tom and Friends racing game announcement",
+    "query_type": "speech"
+  },
+  "train_001004_W8ZTuD8LoW4": {
+    "query": "EMS medical secretarial training options",
+    "query_type": "speech"
+  },
+  "train_000227_Yxfh2yVvWRA": {
+    "query": "Li Zongsheng volunteer subtitles",
+    "query_type": "speech"
+  },
+  "train_000823_lrZclaI6mV8": {
+    "query": "Ancient film industry\u2019s changes and Louis Koo\u2019s involvement",
+    "query_type": "speech"
+  },
+  "train_000477_knV3gjIYepo": {
+    "query": "DNA analysis techniques and applications",
+    "query_type": "speech"
+  },
+  "train_000088_mKSmhEVESvw": {
+    "query": "Car audio USB port file system requirements",
+    "query_type": "speech"
+  },
+  "train_000027_ONSF7Nwqkmw": {
+    "query": "New Year's Eve fireworks injury in Kharkiv",
+    "query_type": "speech"
+  },
+  "train_000205_3cwnQa_oLOI": {
+    "query": "Li Chenlin song lyrics",
+    "query_type": "speech"
+  },
+  "train_000082_-YQZ0E5kPRo": {
+    "query": "Fried vegetable pancake recipe",
+    "query_type": "speech"
+  },
+  "train_000716_WYioQqEvcYI": {
+    "query": "BTS photoshoot behind the scenes",
+    "query_type": "speech"
+  },
+  "train_000544_iHSXacbdnFM": {
+    "query": "Protecting unique selling points with patents",
+    "query_type": "speech"
+  },
+  "train_000784_OU4a6C3krrY": {
+    "query": "Travie McCoy billionaire fantasy music video",
+    "query_type": "speech"
+  },
+  "train_000129_tYxXVQuQ0gA": {
+    "query": "Use of plague as a biological weapon in the 14th century",
+    "query_type": "speech"
+  },
+  "train_000844_icg_deSUelY": {
+    "query": "Algerian rap song lyrics about heartbreak and loneliness",
+    "query_type": "speech"
+  },
+  "train_000135_W_m0IsB-Jas": {
+    "query": "Clashes in Tripoli Libya ongoing",
+    "query_type": "speech"
+  },
+  "train_000591_xZHwFccZ3-w": {
+    "query": "Dog nail clipping techniques demonstrated",
+    "query_type": "speech"
+  },
+  "train_000375_HQk3bJ1uU7U": {
+    "query": "Electric nail clippers internal structure teardown",
+    "query_type": "speech"
+  },
+  "train_000423_jNYFHslkuDQ": {
+    "query": "Huang Xiaoyong's grandmother meeting her grandson's stand-in",
+    "query_type": "speech"
+  },
+  "train_000428_ZkmmKk2zvb0": {
+    "query": "Global food export restrictions due to Ukraine war",
+    "query_type": "speech"
+  },
+  "train_000554_1ew9nZQy7xg": {
+    "query": "Mercedes W14 Formula 1 car launch review",
+    "query_type": "speech"
+  },
+  "train_000468_YS984xvMG7g": {
+    "query": "Elva Hsiao\u2019s return and plastic surgery controversy",
+    "query_type": "speech"
+  },
+  "train_000998_2D3RazhWgF0": {
+    "query": "History of Moscow Meat Packing Plant",
+    "query_type": "speech"
+  },
+  "train_001024_NuMYvcdJoh4": {
+    "query": "American spare ribs spicy stew recipe",
+    "query_type": "speech"
+  },
+  "train_000183_SXnz1fFSW_Y": {
+    "query": "Timeline of 2020 election results",
+    "query_type": "speech"
+  },
+  "train_000488_Ke-m__uNFKs": {
+    "query": "Easy yam and egg pancake recipe",
+    "query_type": "speech"
+  },
+  "train_000666_8zKxIuJ46Nw": {
+    "query": "Korean professional Go player plane incident",
+    "query_type": "speech"
+  },
+  "train_001071_sHfSy1rZOdA": {
+    "query": "K-pop music video",
+    "query_type": "speech"
+  },
+  "train_001017_MlzUPIFLS4E": {
+    "query": "Metaverse game item price predictions",
+    "query_type": "speech"
+  },
+  "train_000710_1_sqx4qDdz8": {
+    "query": "High-dose steroid side effects and tapering",
+    "query_type": "speech"
+  },
+  "train_000264_eucuBhSG1x8": {
+    "query": "Coastal Bend Food Bank pop-up distribution event",
+    "query_type": "speech"
+  },
+  "train_000309_uP31DAckh_o": {
+    "query": "Strange man and girl behavior in video",
+    "query_type": "speech"
+  },
+  "train_000981_UtJdPe8ix8A": {
+    "query": "Seoul Dongbu Expressway car accident and nationwide fires",
+    "query_type": "speech"
+  },
+  "train_001030_Ie_9l2CaJTA": {
+    "query": "\ub3d9\uc0ac \uc0ac\uc804 \uc6c0\uc9c1\uc774\ub294 \ub3d9\uc0ac",
+    "query_type": "speech"
+  },
+  "train_000985_-lFDZKj_HtA": {
+    "query": "Master Falling Music",
+    "query_type": "speech"
+  },
+  "train_000021_HSQPxbAsJBs": {
+    "query": "Repeated phone number leaving and unrequited love",
+    "query_type": "speech"
+  },
+  "train_000779_40oIVHakXp4": {
+    "query": "Naming ceremony of a tanker after Arno Babajanyan",
+    "query_type": "speech"
+  },
+  "train_000854_dJK6PFcbe3Y": {
+    "query": "Seoul Station train delays due to derailment",
+    "query_type": "speech"
+  },
+  "train_000440_RioWoS1HsP0": {
+    "query": "Cambodian rice farming practices",
+    "query_type": "speech"
+  },
+  "train_000843_i7YBIXoKQV8": {
+    "query": "Dream control and dinosaur encounter",
+    "query_type": "speech"
+  },
+  "train_000778_j9RNbIBf7Jc": {
+    "query": "Commercial text writing for business promotion",
+    "query_type": "speech"
+  },
+  "train_000451_MTuUdC1FHRQ": {
+    "query": "Cambodian news report details",
+    "query_type": "speech"
+  },
+  "train_000908_eW5s0MH8nFM": {
+    "query": "I Won't Let You Down song lyrics",
+    "query_type": "speech"
+  },
+  "train_000929_kaqIpKqNQcA": {
+    "query": "CU website hacked by Chinese hackers",
+    "query_type": "speech"
+  },
+  "train_000867_1AuzKRzZi5o": {
+    "query": "Meat combination factory",
+    "query_type": "speech"
+  },
+  "train_001068_bS9CMC50RQ4": {
+    "query": "Korean insurance fraud investigation",
+    "query_type": "speech"
+  },
+  "train_000745_B2cJEK5n7SM": {
+    "query": "Thank you for watching video",
+    "query_type": "speech"
+  },
+  "train_000921_QxANROR96Rg": {
+    "query": "Allegations of court dealings with Park Geun-hye administration",
+    "query_type": "speech"
+  },
+  "train_001073_5HqnbTwouZo": {
+    "query": "Benefits of asparagus and hibiscus for kidney health",
+    "query_type": "speech"
+  },
+  "train_001064_UyKmKUFwE_U": {
+    "query": "Self-waxing underarm hair tips",
+    "query_type": "speech"
+  },
+  "train_000168_RZnq-YH0Rws": {
+    "query": "Father\u2019s Day meal preparation",
+    "query_type": "speech"
+  },
+  "train_000222_PffFENfEQ0w": {
+    "query": "Libya to pay Tunisia $250 million in debt",
+    "query_type": "speech"
+  },
+  "train_000323_cLVW8dEykSA": {
+    "query": "Thank you for watching video",
+    "query_type": "speech"
+  },
+  "train_000265_FPjAh_UTym4": {
+    "query": "Man eating two King Tteokbokki bowls",
+    "query_type": "speech"
+  },
+  "train_000680_CkwL4dmycXY": {
+    "query": "Growing sweet potatoes in pots tips",
+    "query_type": "speech"
+  },
+  "train_000326_dDuo-NT_15M": {
+    "query": "Methods for humans to breathe underwater",
+    "query_type": "speech"
+  },
+  "train_000539_hl-XNzThJ_c": {
+    "query": "Adverse effects of appetite suppressants in adolescents",
+    "query_type": "speech"
+  },
+  "train_000515_lYv508NFuHU": {
+    "query": "RV door locked out scenario",
+    "query_type": "speech"
+  },
+  "train_000146_PXUk7X036GA": {
+    "query": "Excel percentage increase and decrease formula",
+    "query_type": "speech"
+  },
+  "train_000300_n1qk8LBPxc8": {
+    "query": "New Year's release ritual",
+    "query_type": "speech"
+  },
+  "train_001085_xCXkqzOf3Wk": {
+    "query": "Foundation brush cleaning with a tail comb",
+    "query_type": "speech"
+  },
+  "train_000250_6K9AsJyrJi8": {
+    "query": "\u674e\u5b97\u76db songs credits",
+    "query_type": "speech"
+  },
+  "train_000014_L3a-B7hf4eU": {
+    "query": "What\u2019s inside Yin Yin\u2019s bag?",
+    "query_type": "speech"
+  },
+  "train_000280_XUR7BRr_EVk": {
+    "query": "Korean ballad song lyrics",
+    "query_type": "speech"
+  },
+  "train_000123_I7sj-SZWD54": {
+    "query": "Water polo rules and gameplay",
+    "query_type": "speech"
+  },
+  "train_000490_68-8NEbDKAE": {
+    "query": "Reissuing a learner's license online",
+    "query_type": "speech"
+  },
+  "train_000738_kAjXkMoCQQM": {
+    "query": "Kemal Bay hotel food quality review",
+    "query_type": "speech"
+  },
+  "train_000684_hwYdYOT3eqk": {
+    "query": "Simon Rosnutt highlights compilation",
+    "query_type": "speech"
+  },
+  "train_000940_w8RbHYBLPLw": {
+    "query": "Intense sound effects compilation",
+    "query_type": "speech"
+  },
+  "train_000265_IXYdy-ggDy0": {
+    "query": "Thank you for watching",
+    "query_type": "speech"
+  },
+  "train_000124_mXf4m4hi5sE": {
+    "query": "Cambodian speech about economic hardship",
+    "query_type": "speech"
+  },
+  "train_000134_eOsLmZQy9mI": {
+    "query": "Thai language gaming commentary",
+    "query_type": "speech"
+  },
+  "train_000898_p749B84kNtA": {
+    "query": "Increase speaker volume on Sony Xperia Z5 Compact",
+    "query_type": "speech"
+  },
+  "train_000598_KrMWaN1LXrM": {
+    "query": "How to remove cumulative updates in Windows 10",
+    "query_type": "speech"
+  },
+  "train_000992_bc8q9H4bsps": {
+    "query": "How companies use interest rate swaps for risk management",
+    "query_type": "speech"
+  },
+  "train_001038_qUM-EWHshGw": {
+    "query": "Russian citizens\u2019 opinions on Vladimir Putin",
+    "query_type": "speech"
+  },
+  "train_000784_Dd3Izz9e2fE": {
+    "query": "Androids seeking freedom scene",
+    "query_type": "speech"
+  },
+  "train_000246_eYTntQaOzeU": {
+    "query": "Differences between impact and regular drill bits",
+    "query_type": "speech"
+  },
+  "train_000185_6qVYQGsjkJs": {
+    "query": "Cambodian government response to rising costs",
+    "query_type": "speech"
+  },
+  "train_000228_dCiQod3DvPI": {
+    "query": "Zhou JieLun basketball game highlights",
+    "query_type": "speech"
+  },
+  "train_000865_2faRlOfPelw": {
+    "query": "New hospital room size regulations in South Korea",
+    "query_type": "speech"
+  },
+  "train_000382_vLthko6j3vo": {
+    "query": "Dog reacting to large bone",
+    "query_type": "speech"
+  },
+  "train_000269_8n7oHyvAkh8": {
+    "query": "Hong Kong Stand News arrests and shutdown",
+    "query_type": "description"
+  },
+  "train_001075_rQkyAKZkFvM": {
+    "query": "Choi Seo-hee - Chimatjarak live performance",
+    "query_type": "description"
+  },
+  "train_000033_NuYi-Bx6G3Y": {
+    "query": "Jamal Khalitov self-care tips for women",
+    "query_type": "description"
+  },
+  "train_000456_maZ066m8rIQ": {
+    "query": "Asiana Airlines smoke delay at Incheon Airport",
+    "query_type": "description"
+  },
+  "train_000702_LtEuL23BQR8": {
+    "query": "GTA Online mysterious prize",
+    "query_type": "description"
+  },
+  "train_000600_FGM2MK2UEs8": {
+    "query": "My Most Loved Women TV show",
+    "query_type": "description"
+  },
+  "train_000071_g2yVTATqOPg": {
+    "query": "\u78ca\u54e5 social media accounts",
+    "query_type": "description"
+  },
+  "train_000640_FqLdificf_w": {
+    "query": "Shawn Brigman Salishan Sturgeon Nose Canoe",
+    "query_type": "description"
+  },
+  "train_000737__gACEuiUJgM": {
+    "query": "Ketamine vs antidepressants for depression",
+    "query_type": "description"
+  },
+  "train_000252_e7lOd31LnVM": {
+    "query": "Mrs. Piggle Wiggle chapter 2 part 2",
+    "query_type": "description"
+  },
+  "train_001024_Dx8fPFOHl78": {
+    "query": "Bean and vegetable preparation for winter",
+    "query_type": "description"
+  },
+  "train_000506_zlqIgGy2n30": {
+    "query": "Family cooking channel with tested recipes",
+    "query_type": "description"
+  },
+  "train_000706_ynYGX2rd-W4": {
+    "query": "Lee Jae-myung denies all charges in prosecutor questioning",
+    "query_type": "description"
+  },
+  "train_000417_U6PqnCkMOfk": {
+    "query": "China's Commerce Ministry on US tariffs",
+    "query_type": "description"
+  },
+  "train_000890_WKJBN9NqozU": {
+    "query": "Precision Air plane crash Lake Victoria Tanzania",
+    "query_type": "description"
+  },
+  "train_000963_OIYau12yvf4": {
+    "query": "Theta healing session with Elena Shevchenko",
+    "query_type": "description"
+  },
+  "train_000010_M2K9oUjLYUk": {
+    "query": "Taiwan denies political asylum to Chinese dissident Wen Qifeng",
+    "query_type": "description"
+  },
+  "train_000362_DvL8zqeoN7E": {
+    "query": "Testing waterproof tape claims",
+    "query_type": "description"
+  },
+  "train_000299_xxvycQhI56A": {
+    "query": "BYD new energy vehicles review",
+    "query_type": "description"
+  },
+  "train_000136_m5IJ2B2sdL4": {
+    "query": "Kansas Senate passes abortion restrictions bill",
+    "query_type": "description"
+  },
+  "train_000219_7BVGZmBolyE": {
+    "query": "Tomahawk cruise missile cost and production",
+    "query_type": "description"
+  },
+  "train_000218_GBfk0lWOvZk": {
+    "query": "Photoshop image file format efficiency",
+    "query_type": "description"
+  },
+  "train_000960_4puglrETPtQ": {
+    "query": "North American Ringsport Championship 2019 Belgian Malinois",
+    "query_type": "description"
+  },
+  "train_001024_7eAoffIrrK8": {
+    "query": "Russian regional business activity report October 2021",
+    "query_type": "description"
+  },
+  "train_000273_MaAsdP47ELs": {
+    "query": "Correct tooth brushing technique explained by a dentist",
+    "query_type": "description"
+  },
+  "train_000269_qtWjqIw_ppU": {
+    "query": "TSMC 7nm production capacity fully utilized",
+    "query_type": "description"
+  },
+  "train_000779_CIDw75mUl6c": {
+    "query": "How to use dial telephones instructional film",
+    "query_type": "description"
+  },
+  "train_000150_IjPxlWrvsrE": {
+    "query": "Crow falls into water while being blocked on bridge in PUBG",
+    "query_type": "description"
+  },
+  "train_000042_37NL8r8yxhc": {
+    "query": "South African performance horse team history",
+    "query_type": "description"
+  },
+  "train_000708_Hq8Eo9rQgic": {
+    "query": "Leontae Kirk officer-involved shooting Phoenix Arizona",
+    "query_type": "description"
+  },
+  "train_000505_5LNAtjcVNco": {
+    "query": "Air Busan new in-flight meal review",
+    "query_type": "description"
+  },
+  "train_000885_cZgHQvaWM-M": {
+    "query": "Bounce house repair kits and blowers recommended by My Bounce House Guy",
+    "query_type": "description"
+  },
+  "train_000016_E_wxPpRSgho": {
+    "query": "Chris Lake Turn off the lights music video",
+    "query_type": "description"
+  },
+  "train_000363_rMS726onFPQ": {
+    "query": "1 Thought for Humanity project",
+    "query_type": "description"
+  },
+  "train_000430_XWnJ-TUon6Y": {
+    "query": "Slime mixing tutorial for beginners",
+    "query_type": "description"
+  },
+  "train_000748_ZCYGI0LvQws": {
+    "query": "Foreign Accent Syndrome cases Australia",
+    "query_type": "description"
+  },
+  "train_000377_ipWVaHaqkLQ": {
+    "query": "Queena Hairstyle tutorial",
+    "query_type": "description"
+  },
+  "train_000187_x0aOEUCBMno": {
+    "query": "Chinese explanation of content adhering to platform policies",
+    "query_type": "description"
+  },
+  "train_000327_j39rUxdQm_w": {
+    "query": "Mother Mother Baby Boy music video",
+    "query_type": "description"
+  },
+  "train_001044_6InmmvOJ1gU": {
+    "query": "Hogan Assessments for top manager development",
+    "query_type": "description"
+  },
+  "train_000890_5ZcBy1j5kuE": {
+    "query": "Crab boat captain responsibilities",
+    "query_type": "description"
+  },
+  "train_000600_dsZrVdwjuOA": {
+    "query": "DJI Inspire 1 setup tutorial",
+    "query_type": "description"
+  },
+  "train_000056_rrs37PcIcH0": {
+    "query": "English for beginners level 1 episode 2",
+    "query_type": "description"
+  },
+  "train_000895_9u0oafQRLfU": {
+    "query": "Converting degrees to radians",
+    "query_type": "description"
+  },
+  "train_000192_ciJUkiuxJ3M": {
+    "query": "Iguana and sloth in tropical rainforest",
+    "query_type": "description"
+  },
+  "train_000311_-0ZeTgzplaU": {
+    "query": "Intertool store tool set review",
+    "query_type": "description"
+  },
+  "train_000343_PjZDIEzGUbc": {
+    "query": "Heat pad for joint pain relief",
+    "query_type": "description"
+  },
+  "train_000412_JsFxCf2Ho2g": {
+    "query": "Car maintenance and repair tutorial",
+    "query_type": "description"
+  },
+  "train_000671_lbJfsxXtF2k": {
+    "query": "SONATRACH workers honored on November 7, 2022",
+    "query_type": "description"
+  },
+  "train_000942_22_cp3L-j2Q": {
+    "query": "Curtains to match green interior",
+    "query_type": "description"
+  },
+  "train_000016_xsUIdDJDiOI": {
+    "query": "Park Geun-hye prosecutor's office reactions",
+    "query_type": "description"
+  },
+  "train_000136_XpybX8Csc8I": {
+    "query": "Neeraj Chopra wins gold at Kuortane Games",
+    "query_type": "description"
+  },
+  "train_000765_R4PnRVRA2oI": {
+    "query": "Human vs robot sensor technology",
+    "query_type": "description"
+  },
+  "train_000824_3c-BZ26yJT4": {
+    "query": "Jeonnam Jangakji (\uc7a5\uc544\ucc0c) in Wando",
+    "query_type": "description"
+  },
+  "train_000252_BRIfjEKaCKE": {
+    "query": "Chinese rural singer classic songs",
+    "query_type": "description"
+  },
+  "train_000282_2ffZirh0r30": {
+    "query": "Escape room show with Yang Mi and Da Zhang Wei",
+    "query_type": "description"
+  },
+  "train_000712_ct-m54NwZtU": {
+    "query": "How to grow ginger in a pot at home",
+    "query_type": "description"
+  },
+  "train_000999_XA_3hNGTrcY": {
+    "query": "World's smallest forklift charges in 10 minutes",
+    "query_type": "description"
+  },
+  "train_000634_osQeOEEAB0k": {
+    "query": "Replace vehicle wiring harness with sensor cable",
+    "query_type": "description"
+  },
+  "train_000809_ZISvNV62Da4": {
+    "query": "Korean braised pork neck recipe with green onion salad",
+    "query_type": "description"
+  },
+  "train_000510_hBpnt6_sFag": {
+    "query": "\u65af\u65af\u8207\u5e06 \u5922 \u6625\u6c5f\u6c34\u6696",
+    "query_type": "description"
+  },
+  "train_000516_MXbcqdfwmMI": {
+    "query": "Malcolm Brogdon career high points",
+    "query_type": "description"
+  },
+  "train_000925_ENFDWyJSNiM": {
+    "query": "Seoul citizens protest temporary car access to Yonse University Road",
+    "query_type": "description"
+  },
+  "train_000715_P3ndVjNB4X4": {
+    "query": "Editing with zebras",
+    "query_type": "description"
+  },
+  "train_000540_20tDYrDzEg4": {
+    "query": "Gauge pressure, absolute pressure, and atmospheric pressure relationship",
+    "query_type": "description"
+  },
+  "train_000284_iT6-LCAax8Y": {
+    "query": "Kanonezo mask re-release",
+    "query_type": "description"
+  },
+  "train_000511_WWg2KgxetcM": {
+    "query": "L30 Racing supermoto team report",
+    "query_type": "video"
+  },
+  "train_000029_ola6uyQsauA": {
+    "query": "Royal family balcony national anthem",
+    "query_type": "video"
+  },
+  "train_000537_yd_QXRaOXJI": {
+    "query": "Plggy \"I Don't Like Rainy Days\" cover",
+    "query_type": "video"
+  },
+  "train_000431_kUiSfpBNTgU": {
+    "query": "Aikex tornado defeats Zeton in Multiverse Fall",
+    "query_type": "video"
+  },
+  "train_000447_rIx4l_9R9ko": {
+    "query": "Taiwan president visits tea factory with Guatemalan president",
+    "query_type": "video"
+  },
+  "train_000603_Ek2a8EMXP0I": {
+    "query": "EN 13036-4 surface friction test",
+    "query_type": "video"
+  },
+  "train_000684_yAKinFG8W2E": {
+    "query": "Microsoft Surface Pen tutorial",
+    "query_type": "video"
+  },
+  "train_000134_JPyvX8iUeik": {
+    "query": "Horse riding tutorial",
+    "query_type": "video"
+  },
+  "train_000290_tl2RFZ-GeUI": {
+    "query": "Fastest lawn mower acceleration review",
+    "query_type": "video"
+  },
+  "train_000961_W0F7PYS2Y-8": {
+    "query": "Tooth decay leads to implant case",
+    "query_type": "video"
+  },
+  "train_000814_9ZszMcrNvKc": {
+    "query": "Indoor marijuana cultivation bust Korea",
+    "query_type": "video"
+  },
+  "train_000580_1KL-lncW4tI": {
+    "query": "Akai Haato NINJA vs ZEUS comparison",
+    "query_type": "video"
+  },
+  "train_000097_QpDGUrt6wlc": {
+    "query": "November 23 2022 public weather forecast",
+    "query_type": "video"
+  },
+  "train_000590_r6pm2xLASCE": {
+    "query": "Han Kuo-yu Harvard speech 1992 Consensus",
+    "query_type": "video"
+  },
+  "train_001028_6WcMzr2gwBQ": {
+    "query": "Reasons for random chat addiction",
+    "query_type": "video"
+  },
+  "train_000377_Zr-qGzOnTCI": {
+    "query": "Biden re-election prospects 2024 Taiwan",
+    "query_type": "video"
+  },
+  "train_000494_CJmd3ahbfUE": {
+    "query": "Beijing Nanluoguxiang street photography",
+    "query_type": "video"
+  },
+  "train_000373_YwfuFS08Rk8": {
+    "query": "Vitamin B12 deficiency symptoms",
+    "query_type": "video"
+  },
+  "train_000103_pYPOuX209Ec": {
+    "query": "Cauliflower puree recipe",
+    "query_type": "video"
+  },
+  "train_000599_MqMoU9e1JpQ": {
+    "query": "Miroslav Karpovich replacement in play with Pavel Priluchny",
+    "query_type": "video"
+  },
+  "train_000229_LSnnEIXjMUw": {
+    "query": "Final Gear damage guide",
+    "query_type": "video"
+  },
+  "train_000191_bErfa5KsE5o": {
+    "query": "Israeli police arrests Palestinians Negev protests",
+    "query_type": "video"
+  },
+  "train_000996_9e681Bm45S4": {
+    "query": "CNC metal spinning machine lamp shade",
+    "query_type": "video"
+  },
+  "train_001058_7tvd1E1tz1s": {
+    "query": "Korean local election results 2022",
+    "query_type": "video"
+  },
+  "train_001073_aw0UDT3psXA": {
+    "query": "Park Geun-hye trial closing arguments",
+    "query_type": "video"
+  },
+  "train_000236_bopqvyVF4MY": {
+    "query": "Baby bathing Monkey Hair Red",
+    "query_type": "video"
+  },
+  "train_000899_IV_QUCIkk5w": {
+    "query": "Christmas doodles tutorial",
+    "query_type": "video"
+  },
+  "train_000478_VU4aAF1iSms": {
+    "query": "Chinese sinkhole reveals cave",
+    "query_type": "video"
+  },
+  "train_000415_pD_DS5TT-mc": {
+    "query": "COP27 climate finance negotiations",
+    "query_type": "video"
+  },
+  "train_000909_fz0Ez0LytnI": {
+    "query": "Witch's Drama episode 5 cast",
+    "query_type": "video"
+  },
+  "train_000249_krvRIWXLSJo": {
+    "query": "DIY window blackout curtains",
+    "query_type": "video"
+  },
+  "train_001058_6-NWhpO2ubI": {
+    "query": "Otonamaki Japanese tradition",
+    "query_type": "video"
+  },
+  "train_001037_Alk3KFqwQdw": {
+    "query": "What makes a child happy",
+    "query_type": "video"
+  },
+  "train_000388_3harspE1kdM": {
+    "query": "Woodworking machine transforms scrap wood",
+    "query_type": "video"
+  },
+  "train_000954_aAhPLjTqqLY": {
+    "query": "PT GROUP company profile",
+    "query_type": "video"
+  },
+  "train_000942_lx8pay73Iys": {
+    "query": "Soap in toilet longevity",
+    "query_type": "video"
+  },
+  "train_001020_WT_rG7Z1EC8": {
+    "query": "Turbo - Regretless Love dance tutorial",
+    "query_type": "video"
+  },
+  "train_000101_0A4iPCUAHwY": {
+    "query": "Joyce Chu 16 years old Chuang 2020",
+    "query_type": "video"
+  },
+  "train_000442_8W0roZguCak": {
+    "query": "Children drown in Gwangju stream",
+    "query_type": "video"
+  },
+  "train_000506_XNPD7K5WCq0": {
+    "query": "Seoul subway arson attempts",
+    "query_type": "video"
+  },
+  "train_000632_L3NiwdyA0rY": {
+    "query": "Malaysia parliament dissolution prediction",
+    "query_type": "video"
+  },
+  "train_000409_PX3xLNKf9xY": {
+    "query": "McDonald's vs Burger King marketing rivalry",
+    "query_type": "video"
+  },
+  "train_000604_mofzEgknQTI": {
+    "query": "Thomas Anders Win The Race 2019 Russia",
+    "query_type": "video"
+  },
+  "train_000732_0yq3Nkpvj5U": {
+    "query": "You tiao recipe",
+    "query_type": "video"
+  },
+  "train_001076_1fYTCOXclzo": {
+    "query": "Subsidized housing for disabled \ubc18\uc9c0\ud558 households Korea",
+    "query_type": "video"
+  },
+  "train_000692_LGiuGHGJAWI": {
+    "query": "LGBTQ advocate concerns Supreme Court abortion case",
+    "query_type": "video"
+  },
+  "train_000589__MBqYJjM9JM": {
+    "query": "Signs of longevity in women's bodies",
+    "query_type": "video"
+  },
+  "train_000911_Q1A_yWYgIVo": {
+    "query": "Zelensky proposes extending martial law Ukraine",
+    "query_type": "video"
+  },
+  "train_000972_F6IwqmmDTvQ": {
+    "query": "Beer bottle capping machine",
+    "query_type": "video"
+  },
+  "train_001002_luNYZhEHKJA": {
+    "query": "Yeosu Suncheon highway construction",
+    "query_type": "video"
+  },
+  "train_000101_JdEdK5GDZgU": {
+    "query": "Poached egg cooking method",
+    "query_type": "video"
+  },
+  "train_000938_DVskdWI4MoE": {
+    "query": "Druzhba porridge recipe",
+    "query_type": "video"
+  },
+  "train_000568_59Y5FvSHzfE": {
+    "query": "Korean car wash dance performance",
+    "query_type": "video"
+  },
+  "train_000257_uCg5RWHpk_c": {
+    "query": "Food addiction Korea",
+    "query_type": "video"
+  },
+  "train_000376_f8ZE6xUQWAQ": {
+    "query": "Google Translate automatic selection translation feature",
+    "query_type": "video"
+  },
+  "train_000632_VpR8tlvJ7Fo": {
+    "query": "English future tense \"be going to\" lesson",
+    "query_type": "video"
+  },
+  "train_000075_uSUTgRkzuhc": {
+    "query": "Maxton MX-20L dehumidifier review",
+    "query_type": "video"
+  },
+  "train_000605_h8YPfd262LQ": {
+    "query": "MOBIHEL aerosol primer comparison",
+    "query_type": "video"
+  },
+  "train_000145__7I3hgcLmoQ": {
+    "query": "Ramadan farewell song",
+    "query_type": "video"
+  },
+  "train_001019_3k28RTEm34w": {
+    "query": "Antique powder box appraisal",
+    "query_type": "video"
+  },
+  "train_000380_GqbFgML0FD4": {
+    "query": "Modeling agency explained",
+    "query_type": "video"
+  },
+  "train_000292_vnuMgYNqvt8": {
+    "query": "QQ Speed beginner female driver gameplay",
+    "query_type": "video"
+  },
+  "train_000455_gHRxvoKFHUc": {
+    "query": "Facebook user demographics inaccuracies",
+    "query_type": "video"
+  },
+  "train_000678_Iqwp4VoLrw4": {
+    "query": "Aquarium fish worms treatment",
+    "query_type": "video"
+  },
+  "train_000650_rkm_TY8pADs": {
+    "query": "KakaoTalk high contrast theme tutorial",
+    "query_type": "video"
+  },
+  "train_000650_QSHPC80hBl8": {
+    "query": "MuseScore keyboard connection settings",
+    "query_type": "video"
+  },
+  "train_000208_i34nC_aryC8": {
+    "query": "UP government generic vs branded medicine",
+    "query_type": "video"
+  },
+  "train_000763_RN9Rg-1u_CE": {
+    "query": "Job interview checklist",
+    "query_type": "video"
+  },
+  "train_000661_lvK7TDFJZhY": {
+    "query": "CNC G0704 belt drive conversion",
+    "query_type": "video"
+  },
+  "train_000729_rlTFOlU1KC8": {
+    "query": "Biting tongue consequences behavioral science",
+    "query_type": "video"
+  },
+  "train_001083_wp4htLuOKrs": {
+    "query": "Safe American football techniques",
+    "query_type": "video"
+  },
+  "train_000128_p3mcDvIwzJ8": {
+    "query": "Cat watches table tennis",
+    "query_type": "video"
+  },
+  "train_000718_D8gFAA3RqdI": {
+    "query": "DIY stone rolling machine",
+    "query_type": "video"
+  },
+  "train_000548_vaZJldd3dzs": {
+    "query": "Okun's Law explained",
+    "query_type": "video"
+  },
+  "train_000152_BFlNPRaqXqI": {
+    "query": "Photoshop metallic balloon effect tutorial",
+    "query_type": "video"
+  },
+  "train_001049_emc2UNSrBu4": {
+    "query": "Demon leg build Black Legion",
+    "query_type": "video"
+  },
+  "train_000512_zNkFzfFAq0E": {
+    "query": "Homemade N95 masks USA",
+    "query_type": "video"
+  },
+  "train_000285_GUZ38kjoGfE": {
+    "query": "Coin flip decision making",
+    "query_type": "video"
+  },
+  "train_000186_KotQo9qTAVU": {
+    "query": "Sibling disagreement summer plans",
+    "query_type": "video"
+  },
+  "train_000205_APZO5Fj7dls": {
+    "query": "Best ETFs for investment analysis",
+    "query_type": "video"
+  },
+  "train_000837_OI3An4JCP94": {
+    "query": "Manchester University foundation year requirements",
+    "query_type": "video"
+  },
+  "train_000875_TlJOKmA0ZCA": {
+    "query": "Datuk Seri Dr. Chong Yau Fu founder of Malaysian Scouts Club",
+    "query_type": "video"
+  },
+  "train_001041_3LwgvQBjab4": {
+    "query": "Hide photos and videos on iPhone iOS 14",
+    "query_type": "video"
+  },
+  "train_000946_0o19dkY3SVI": {
+    "query": "Car crash fleeing DUI checkpoint",
+    "query_type": "video"
+  },
+  "train_000637_gO9vzbyEB6A": {
+    "query": "Snow and ice removal sidewalk safety",
+    "query_type": "video"
+  },
+  "train_000930_pyiT-yib6XY": {
+    "query": "Sakhalin apartment building stroller bicycle fines",
+    "query_type": "video"
+  },
+  "train_000492_iO20vD1iJ6Q": {
+    "query": "South Jeolla Province public language guidelines",
+    "query_type": "video"
+  },
+  "train_000989_QuYvITyFSsc": {
+    "query": "Yoon Ga-i monologue acting Goeraebyul Sua",
+    "query_type": "video"
+  },
+  "train_000037_dEtyix8Vvqo": {
+    "query": "Stress and weight gain",
+    "query_type": "video"
+  },
+  "train_000872_qxd4zJNNOs8": {
+    "query": "Theresa May Grenfell diversity information request",
+    "query_type": "video"
+  },
+  "train_000230_bqBGlGn3Xjg": {
+    "query": "Taiwan highway safe distance fine",
+    "query_type": "video"
+  },
+  "train_000574_gL739AG_rlM": {
+    "query": "Lee Jae-soo funeral protest",
+    "query_type": "video"
+  },
+  "train_000729_uR0YnP8Raj0": {
+    "query": "Mixing slime colors for toddlers",
+    "query_type": "video"
+  },
+  "train_000093_PoMPUQPMzYw": {
+    "query": "El Torito song for kids",
+    "query_type": "video"
+  },
+  "train_000280_P_2wPySBtxM": {
+    "query": "Muscle energy consumption dieting",
+    "query_type": "video"
+  },
+  "train_000943_gowb2-MK7v8": {
+    "query": "Borogontsy electrocution Yakutsk shooting",
+    "query_type": "video"
+  },
+  "train_000086_RhvuS-DtCuk": {
+    "query": "Cut elementary school boy's hair at home",
+    "query_type": "video"
+  },
+  "train_000472_KpZftOte36s": {
+    "query": "Baked chicken and vegetables recipe",
+    "query_type": "video"
+  },
+  "train_000532_1p4qTx39pcY": {
+    "query": "Competitive advantage strategies",
+    "query_type": "video"
+  },
+  "train_000203_g20BHMAmvLo": {
+    "query": "Mai Zhenhong song meaning",
+    "query_type": "video"
+  },
+  "train_000964_cKokyOKjXVE": {
+    "query": "Decathlon complex training",
+    "query_type": "video"
+  },
+  "train_000341_50FrwY55z1c": {
+    "query": "SuperSOCO electric motorcycle review",
+    "query_type": "video"
+  },
+  "train_000971_q_4qUIhnkac": {
+    "query": "Yamal residents virtual Immortal Regiment",
+    "query_type": "video"
+  },
+  "train_000828_jqA3W21otPQ": {
+    "query": "Assam police anti-ragging policy",
+    "query_type": "video"
+  },
+  "train_000202_K_exSyZ5QQI": {
+    "query": "Land Rover Range Rover SV coupe 2023 review",
+    "query_type": "video"
+  },
+  "train_000940_byvnEw0Gp3U": {
+    "query": "Annoying Orange new merchandise link",
+    "query_type": "description"
+  },
+  "train_000286_Hu2FS8LqJlY": {
+    "query": "Dream interpretation and magic in Islam",
+    "query_type": "description"
+  },
+  "train_000211_i03tHUEYIG4": {
+    "query": "Yang Chaoyue fan of Huang Jingyu on Go Fighting!",
+    "query_type": "description"
+  },
+  "train_000557_UnvCyr3UnMk": {
+    "query": "Photography editing tutorial exchange",
+    "query_type": "description"
+  },
+  "train_000817_qm4_lIe6ajg": {
+    "query": "Korean housing prices dropping due to rising interest rates",
+    "query_type": "description"
+  },
+  "train_000437_0PLIvSwMPjU": {
+    "query": "Foreign investment increase in Shanghai retail",
+    "query_type": "description"
+  },
+  "train_000265_Uztmz8Io0Ds": {
+    "query": "Successful vs unsuccessful mindset Adakofe",
+    "query_type": "description"
+  },
+  "train_000708_SMbAY9cY-hc": {
+    "query": "Elementary school student golf swing after 3 days",
+    "query_type": "description"
+  },
+  "train_000353_dmkW0eKQmqQ": {
+    "query": "Zhao Liying and Feng Shaofeng in The Story of Ming Lan",
+    "query_type": "description"
+  },
+  "train_000012_YYO4sLyq4nw": {
+    "query": "YUU-XX Fortnite team.Ditto",
+    "query_type": "description"
+  },
+  "train_000010_2nur6Chlqcc": {
+    "query": "Xu Jingyu NBA analysis",
+    "query_type": "description"
+  },
+  "train_000671_eq6eQzVj7NQ": {
+    "query": "Aircraft runway excursion risks",
+    "query_type": "description"
+  },
+  "train_000302_4S8052PyXdQ": {
+    "query": "Oxygen Not Included liquid wall tutorial",
+    "query_type": "description"
+  },
+  "train_000691_4y_3scwzNNs": {
+    "query": "Alpha Flip tutorial",
+    "query_type": "description"
+  },
+  "train_000403_hRYXX61sfCw": {
+    "query": "Chinese refrigerator brand export leader",
+    "query_type": "description"
+  },
+  "train_000544_F0_0jNhc0DM": {
+    "query": "Beginner's guide to raising cattle and livestock",
+    "query_type": "description"
+  },
+  "train_000603_jyIR7Qw92PI": {
+    "query": "France 24 live news stream",
+    "query_type": "description"
+  },
+  "train_001083_RUr2jF_Lr1U": {
+    "query": "Korea labor hour reduction plan details",
+    "query_type": "description"
+  },
+  "train_000326_dugwBquCWdI": {
+    "query": "VEGAPULS C 21 and VEGAMET 841 at Verlath screw pump",
+    "query_type": "description"
+  },
+  "train_000354_tm2__i1MyqY": {
+    "query": "Taiwan convenience store shoe cleaning service",
+    "query_type": "description"
+  },
+  "train_000819_6XbgXownKbg": {
+    "query": "Gangnam store floor cleaning and waxing",
+    "query_type": "description"
+  },
+  "train_000320_fx1YraqqTzY": {
+    "query": "What is the Eye of the Sahara",
+    "query_type": "description"
+  },
+  "train_000895_w_v679xWquY": {
+    "query": "Ted Cruz wins Iowa caucus 2016",
+    "query_type": "description"
+  },
+  "train_000693_i_EDaRFemjQ": {
+    "query": "TIGER travel leisure ETF analysis February 15 2022",
+    "query_type": "description"
+  },
+  "train_000763_57fBNNKvffE": {
+    "query": "Evergreen S-class container ship specifications",
+    "query_type": "description"
+  },
+  "train_000531_TiRqYFq14dE": {
+    "query": "How to answer difficult questions during a presentation",
+    "query_type": "description"
+  },
+  "train_001012_g5T2tu3Yky4": {
+    "query": "Alec Benjamin Shadow of Mine music video",
+    "query_type": "description"
+  },
+  "train_000194_L25zlGwAmwA": {
+    "query": "Zisha teapot sandblasting engraving",
+    "query_type": "description"
+  },
+  "train_000215_ELJVvYvvOgs": {
+    "query": "Indian National Finals Rodeo CEAT tires sponsorship",
+    "query_type": "description"
+  },
+  "train_000442_HrRow1fOUvU": {
+    "query": "India's rising imports from China in 2021",
+    "query_type": "description"
+  },
+  "train_000227_PiqWhlhEEuI": {
+    "query": "Happy Camp variety show schedule",
+    "query_type": "description"
+  },
+  "train_000348_Rjsyr-9wSW4": {
+    "query": "Windows 10/11 and Office activation script download",
+    "query_type": "description"
+  },
+  "train_000202_u5CP7zXsc2o": {
+    "query": "US Labor Day minimum wage discussion",
+    "query_type": "description"
+  },
+  "train_000877_qslDfXC65XI": {
+    "query": "Women's EHF Beach Handball EURO 2021 main round highlights",
+    "query_type": "description"
+  },
+  "train_000411_zs83MaIg1W0": {
+    "query": "Falling into You Chinese drama cast",
+    "query_type": "description"
+  },
+  "train_000352_echwzmhkgA8": {
+    "query": "Is freelancing a scam?",
+    "query_type": "description"
+  },
+  "train_000079_NtelRXHj4S0": {
+    "query": "Inspection equipment",
+    "query_type": "description"
+  },
+  "train_000601_HFGkAHd1YMw": {
+    "query": "Quan Wei Ultra Joint for osteoarthritis",
+    "query_type": "description"
+  },
+  "train_000894_81Zz-HvIajA": {
+    "query": "Sixth grade moral education - globalization issues",
+    "query_type": "description"
+  },
+  "train_000528_53AB6Jp8mYM": {
+    "query": "Thailand reopening borders to vaccinated tourists",
+    "query_type": "description"
+  },
+  "train_000111_7rVr_7jzIfo": {
+    "query": "Lost dog found while herding cattle",
+    "query_type": "description"
+  },
+  "train_001045_91CGUWAPqfU": {
+    "query": "Russian money spell at noon",
+    "query_type": "description"
+  },
+  "train_000669_ahJyYauJqJE": {
+    "query": "YTN report on National Assembly conflict",
+    "query_type": "description"
+  },
+  "train_000175_Wi80y4oKrYA": {
+    "query": "Real estate contract writing program",
+    "query_type": "description"
+  },
+  "train_001006_G0rVWsbhV2Y": {
+    "query": "Ukraine drone attacks and Russian response",
+    "query_type": "description"
+  },
+  "train_000612_f8159ydrlLk": {
+    "query": "Rick turns into a pickle to avoid therapy",
+    "query_type": "description"
+  },
+  "train_000669_isIh1Kk6QyU": {
+    "query": "Health benefits of blueberries",
+    "query_type": "description"
+  },
+  "train_000624_niilkEn9GwE": {
+    "query": "BAD CHILD - Breathing Fire music video",
+    "query_type": "description"
+  },
+  "train_000789_07D-fkG8RmU": {
+    "query": "Gwangju billiard hall for rent with 2000 deposit and 160 monthly rent",
+    "query_type": "description"
+  },
+  "train_000368_Z4AB24hfDck": {
+    "query": "Online purchase of faulty machine cases",
+    "query_type": "description"
+  },
+  "train_000470_cMBIJCSqEzw": {
+    "query": "Daejeon MBC news channel subscription",
+    "query_type": "description"
+  },
+  "train_000500_v7X-b9ILTGc": {
+    "query": "Chinese calligraphy horizontal scroll: \"A bosom friend afar brings a distant land near\"",
+    "query_type": "description"
+  },
+  "train_001023_R-S_XAxk_IY": {
+    "query": "Why doesn't it exist?",
+    "query_type": "description"
+  },
+  "train_000980_1k7cpZQxCBg": {
+    "query": "RDU airport security line increase",
+    "query_type": "description"
+  },
+  "train_000155_deiOzcoDnf8": {
+    "query": "Kazuyasu Minobe vs Yannick Borel fencing Cairo 2022",
+    "query_type": "description"
+  },
+  "train_000267_GsKrNuLk-V8": {
+    "query": "Daily life in a Chinese village",
+    "query_type": "description"
+  },
+  "train_000741_ZXcTvbLwsRs": {
+    "query": "animated video about finding satisfaction through helping others",
+    "query_type": "description"
+  },
+  "train_000562_Ro8Hv8YrO7c": {
+    "query": "Avtosfera social media links",
+    "query_type": "description"
+  },
+  "train_000234__NHuGuaeJz0": {
+    "query": "How to get rid of limiting beliefs and stereotypes",
+    "query_type": "description"
+  },
+  "train_000460_zl4R6HFnCXw": {
+    "query": "Why do babies put things in their mouth",
+    "query_type": "description"
+  },
+  "train_000786_UpHTiTdmzjU": {
+    "query": "DIY self haircut tutorial at home",
+    "query_type": "description"
+  },
+  "train_001007_xIOtiPqYlKQ": {
+    "query": "Signs she likes you in school",
+    "query_type": "description"
+  },
+  "train_000467_X-yBxpP8xXc": {
+    "query": "Quan Hongchan new event at World Championships",
+    "query_type": "description"
+  },
+  "train_000786_wQLcBb2K3eI": {
+    "query": "Russian mobilization draft evaders punishment",
+    "query_type": "description"
+  },
+  "train_000315_hOk35BCz7LY": {
+    "query": "Metro nonprofit adjusts services for community needs",
+    "query_type": "description"
+  },
+  "train_000942_jKw7czUs8Fs": {
+    "query": "Yodelay cello cover of Hae\ub97c\ud488\uc740\ub2ec",
+    "query_type": "description"
+  },
+  "train_000268_41W30qCxWc4": {
+    "query": "Man in Huzhou claims friend owes him 3 million yuan",
+    "query_type": "description"
+  },
+  "train_000503_egIszFoHMas": {
+    "query": "Song Hye-kyo nervous expression in The Glory Part 2",
+    "query_type": "description"
+  },
+  "train_001018__AsP92Vc6Ew": {
+    "query": "Lee Jun-seok and Bae Hyun-jin handshake at event",
+    "query_type": "description"
+  },
+  "train_000384_tet8KlFWd6E": {
+    "query": "Taiwan's Zheng Knows channel launch",
+    "query_type": "description"
+  },
+  "train_000669_0dLnd-hVUFQ": {
+    "query": "Tomatin in new variety cherry tomatoes causing vomiting",
+    "query_type": "description"
+  },
+  "train_000925_2ZJ0G3QbgFc": {
+    "query": "Lucid stock surge and future outlook",
+    "query_type": "description"
+  },
+  "train_000603_SGIQFm8yAWM": {
+    "query": "Cat separation anxiety treatment",
+    "query_type": "description"
+  },
+  "train_000441_2EKXTzO-4JU": {
+    "query": "Apple oats smoothie for weight loss",
+    "query_type": "description"
+  },
+  "train_000089_gFJqxQzZzpE": {
+    "query": "Ministry of Economy and Finance criticized for hypocrisy",
+    "query_type": "description"
+  },
+  "train_000211_19BdaHBKee8": {
+    "query": "Taiwan disinfection gate and spray",
+    "query_type": "description"
+  },
+  "train_000364_nTjEuQjYjaM": {
+    "query": "Pope Francis Canada trip reconciliation",
+    "query_type": "description"
+  },
+  "train_000129_o5J9RTPwgDc": {
+    "query": "Hay for cows and sheep from Agro7.kz",
+    "query_type": "description"
+  },
+  "train_000539_pVIc2ywOgLQ": {
+    "query": "Christchurch mosque attack trial delay upsets victims' families",
+    "query_type": "description"
+  },
+  "train_000618_YBm_ed4VzbQ": {
+    "query": "Cultural diversity and conflict resolution",
+    "query_type": "description"
+  },
+  "train_000235_G8AzAzicirs": {
+    "query": "Marvel AAP anti-aging program",
+    "query_type": "description"
+  },
+  "train_001012_DJwSELeUZy8": {
+    "query": "Glass Fire destroys three homes in St. Helena",
+    "query_type": "description"
+  },
+  "train_000741_jxf65RGM97c": {
+    "query": "Yoon Suk-yeol presidential office relocation poll results",
+    "query_type": "description"
+  },
+  "train_000188_VARTHLwCWHU": {
+    "query": "COVID-19 loss of smell and taste lasting over a year",
+    "query_type": "description"
+  },
+  "train_000791_Wi5WQoJ0TyY": {
+    "query": "Dagestan athletes at Russian Taekwondo Championship 2023",
+    "query_type": "description"
+  },
+  "train_000170_FgJ08ugzbdc": {
+    "query": "Cantamaestra preschool songs",
+    "query_type": "description"
+  },
+  "train_000140_GuORmQXPi9I": {
+    "query": "HP LaserJet Enterprise MFP EWS control panel setup",
+    "query_type": "description"
+  },
+  "train_000260_dmhb6CE1Jnw": {
+    "query": "Guess the anime character shadow challenge",
+    "query_type": "description"
+  },
+  "train_000158_9WUirLIbF1Y": {
+    "query": "Canadian estate distribution and execution of wills",
+    "query_type": "description"
+  },
+  "train_000397_Wy8MFpeEwHQ": {
+    "query": "Ugly gift ideas from Dudu Jiang",
+    "query_type": "description"
+  },
+  "train_000164_7TyXmTUTPfA": {
+    "query": "Pakistani drama Siyani cast and plot",
+    "query_type": "description"
+  },
+  "train_000003_42SBoKkRsOM": {
+    "query": "Man with abs in short pants",
+    "query_type": "description"
+  },
+  "train_000341_stwMYnPwro4": {
+    "query": "Strawberry Tart channel information",
+    "query_type": "description"
+  },
+  "train_000432_l2a1QVJcUcI": {
+    "query": "DanceSquare tutorial",
+    "query_type": "description"
+  },
+  "train_000789_jfYJDn8wCYA": {
+    "query": "Park Beom-gye doll delivery incident at Incheon Airport",
+    "query_type": "description"
+  },
+  "train_000983_W0qvzh4BB8U": {
+    "query": "Unexpected fines in Spain",
+    "query_type": "description"
+  },
+  "train_000210_xkPkVRsxhEI": {
+    "query": "2017 National Wushu Routine Championship highlights",
+    "query_type": "description"
+  },
+  "train_000949_pWCDKkBtBw8": {
+    "query": "Crayon Shin-chan: Arashi o Yobu Appare! Singing Butt Bomb movie review",
+    "query_type": "description"
+  },
+  "train_000398_2T_-pqhigLk": {
+    "query": "Ukrainian ambassador receives applause in UK Parliament",
+    "query_type": "description"
+  },
+  "train_000157_UT71fDV6WMw": {
+    "query": "Funny story about a call from heaven during quarantine",
+    "query_type": "description"
+  },
+  "train_001052_Gt5Is9wNLKQ": {
+    "query": "Avanes and the donkey story explaining Samsara",
+    "query_type": "description"
+  },
+  "train_000097_CGThcZW3CEc": {
+    "query": "Venom Presents Twitter and Instagram",
+    "query_type": "description"
+  },
+  "train_000548_XNStJAZX968": {
+    "query": "Kim Min-jae to Real Madrid rumors",
+    "query_type": "description"
+  },
+  "train_000677_sH7mM5fgiXs": {
+    "query": "Kim Danbi's Instagram account",
+    "query_type": "description"
+  },
+  "train_000364_kQcJdtY28mY": {
+    "query": "Park Geun-hye accepts Chung Hong-won's resignation after ferry disaster",
+    "query_type": "description"
+  },
+  "train_000045_mV79Kf15zls": {
+    "query": "How artists become idols",
+    "query_type": "description"
+  },
+  "train_000556_v0Or1pJchlE": {
+    "query": "Three types of foreplay men like",
+    "query_type": "description"
+  },
+  "train_000688_F5EV519mWnQ": {
+    "query": "Public wallet theft social experiment",
+    "query_type": "description"
+  },
+  "train_000723_bASmBBGXsCg": {
+    "query": "Spring health checkup recommendations",
+    "query_type": "description"
+  },
+  "train_000874_cpO0cs7Qxf8": {
+    "query": "Svyaznoy smartphone ad with Irina Gorbacheva and Evgeny Davidovich",
+    "query_type": "description"
+  },
+  "train_000150_v7IsSMwdB0c": {
+    "query": "Van life travel vlog China",
+    "query_type": "description"
+  },
+  "train_000767_fa2PO-uARoQ": {
+    "query": "Malaysian general election and UEC recognition",
+    "query_type": "description"
+  },
+  "train_000470_mwAx26o5NEs": {
+    "query": "KRBC interview with jockeys and racehorses",
+    "query_type": "description"
+  },
+  "train_000130_zf-ShXleUDc": {
+    "query": "Origami easy tutorial for beginners",
+    "query_type": "description"
+  },
+  "train_000026_oTs4ruLTRAM": {
+    "query": "HIMARS strike on Khimmash factory in Ukraine",
+    "query_type": "description"
+  },
+  "train_000875_2B10ZWMPDp4": {
+    "query": "Pole dance frog spin tutorial",
+    "query_type": "description"
+  },
+  "train_000536_4aKx5nSlu7c": {
+    "query": "Product manager turned self-media creator sharing experience",
+    "query_type": "description"
+  },
+  "train_000916_w4FXwKjwqfQ": {
+    "query": "Ukrainian students prom after school bombing",
+    "query_type": "description"
+  },
+  "train_000475_EyYHqR7wS6E": {
+    "query": "Dolphin diving in the Red Sea, Egypt",
+    "query_type": "description"
+  },
+  "train_000373_lKBYfK6xDPQ": {
+    "query": "TV AiST Youtube channel subscription",
+    "query_type": "description"
+  },
+  "train_000603_RQaQTTNI9FY": {
+    "query": "JAXA Tsukuba water rocket launch",
+    "query_type": "description"
+  },
+  "train_000250_c4dr5NZavH4": {
+    "query": "Supernova Games Season 2 athletes lineup",
+    "query_type": "description"
+  },
+  "train_000708__TTB3lu7irY": {
+    "query": "JoJo raw live performance of Tringle",
+    "query_type": "description"
+  },
+  "train_000957_B5MVDeBYSi8": {
+    "query": "Evidence of Kim Hyojin\u2019s voice file obtained during TJ raid",
+    "query_type": "description"
+  },
+  "train_000882_8WPUAarVWZM": {
+    "query": "Brazil mine dam collapse causes 200 missing",
+    "query_type": "description"
+  },
+  "train_000018_C-AHG3nqGEs": {
+    "query": "JCB electric excavator Bottle Cap Challenge",
+    "query_type": "description"
+  },
+  "train_000143_6r01hhKL1XY": {
+    "query": "Lego free replacement parts tutorial",
+    "query_type": "speech"
+  },
+  "train_000773_qiPuUb1ONuM": {
+    "query": "HaeNam county industrial complex redevelopment plans",
+    "query_type": "speech"
+  },
+  "train_001001_ovyHLW0wdtM": {
+    "query": "Body found in burned car at golf course in Gunsan",
+    "query_type": "speech"
+  },
+  "train_000844_g79lFVbOKro": {
+    "query": "Factors influencing projectile motion explained",
+    "query_type": "speech"
+  },
+  "train_000316_47FX8RI_944": {
+    "query": "Electrochemical treatment of aquaculture wastewater",
+    "query_type": "speech"
+  },
+  "train_000200_UqIp2QHxJl0": {
+    "query": "Golf swing grip and stance tips",
+    "query_type": "speech"
+  },
+  "train_000886_vAAxeZwSolk": {
+    "query": "India's response to COVID-19 outbreak",
+    "query_type": "speech"
+  },
+  "train_000263_CoB5ZjBiq_4": {
+    "query": "7 pool ball techniques for beginners",
+    "query_type": "speech"
+  },
+  "train_000719_D8XXaM1xCtY": {
+    "query": "Brightaxe Milano Hi-Lo High Chair features and adjustments",
+    "query_type": "speech"
+  },
+  "train_000375_lYXx6hwSwWk": {
+    "query": "Criticism of Malaysia's anti-hopping law",
+    "query_type": "speech"
+  },
+  "train_000708_B1lnJuIO4xA": {
+    "query": "Korean drama scene with aggressive questioning",
+    "query_type": "speech"
+  },
+  "train_001037_Lqaw1ZvnxOM": {
+    "query": "China's Q1 economic growth rate and zero-COVID policy impact",
+    "query_type": "speech"
+  },
+  "train_000833_frGfEXVjKIQ": {
+    "query": "Hyundai Motor Beijing plant production halt",
+    "query_type": "speech"
+  },
+  "train_000436_yEaYkW25ZFg": {
+    "query": "All-Union youth ski jumping and Nordic combined competition",
+    "query_type": "speech"
+  },
+  "train_000662_7b8ZV8q5_YU": {
+    "query": "Limbic system vs cortical consciousness explained",
+    "query_type": "speech"
+  },
+  "train_000499_dpUrMRtfiNg": {
+    "query": "Apius PLM system and Russian GOST standards",
+    "query_type": "speech"
+  },
+  "train_000969_fCy3MoKM6oE": {
+    "query": "Rugby high ball catching technique tutorial",
+    "query_type": "speech"
+  },
+  "train_000958_r32J9AOvios": {
+    "query": "14000 lumen flashlight test",
+    "query_type": "speech"
+  },
+  "train_000412_P-IL4rx5c5s": {
+    "query": "Taiwanese aeroponic vegetable technology exhibition",
+    "query_type": "speech"
+  },
+  "train_000289_J5zvedEw5Xs": {
+    "query": "South Korean government policy on child abuse and corporal punishment",
+    "query_type": "speech"
+  },
+  "train_000269_uIcWjAfSlIE": {
+    "query": "RM lyrics analysis",
+    "query_type": "speech"
+  },
+  "train_000242_1dJIcUj3Bk0": {
+    "query": "Tengah repeated multiple times",
+    "query_type": "speech"
+  },
+  "train_000577_MgtmAorIjuE": {
+    "query": "Cambodian rice farming practices",
+    "query_type": "speech"
+  },
+  "train_000212_2YgAOiQGQhY": {
+    "query": "Garbled speech with random characters",
+    "query_type": "speech"
+  },
+  "train_000026_vwKIrokS82o": {
+    "query": "Igor Salik embezzlement allegations",
+    "query_type": "speech"
+  },
+  "train_000387_vmgP5wIIu9M": {
+    "query": "Legality of dissolving the Unified Progressive Party in South Korea",
+    "query_type": "speech"
+  },
+  "train_000786_QdMUq4KlPM4": {
+    "query": "Does hair keratin straightening reversal product work?",
+    "query_type": "speech"
+  },
+  "train_000824_Ka94mn0IzEo": {
+    "query": "Cambodia rice yield and Dallas Kansas connection",
+    "query_type": "speech"
+  },
+  "train_000455_VJrTFq6OArg": {
+    "query": "Local residents save woman drowning at Virar beach",
+    "query_type": "speech"
+  },
+  "train_001078_lx76J_P8JQQ": {
+    "query": "Korean National Assembly election law violations lenient sentencing",
+    "query_type": "speech"
+  },
+  "train_000309_8xINVGG7NWM": {
+    "query": "Motorcycle S-turn practice in parking lot",
+    "query_type": "speech"
+  },
+  "train_000922_6WXKJH5sU4w": {
+    "query": "How to give a thoughtful book as a gift",
+    "query_type": "speech"
+  },
+  "train_001073_o2dGXHBSzmg": {
+    "query": "AI-generated ballad song about quadratic equations",
+    "query_type": "speech"
+  },
+  "train_000895_51iviu4HP0I": {
+    "query": "Astrium space harpoon debris removal system",
+    "query_type": "speech"
+  },
+  "train_000315_1gzwPDHrC_8": {
+    "query": "Starbucks and Costco wage increases",
+    "query_type": "speech"
+  },
+  "train_000070_7fwPqbUyr74": {
+    "query": "Critique of dating advice targeting women",
+    "query_type": "speech"
+  },
+  "train_000147_o7A9TkjYpww": {
+    "query": "GeForce RTX 2080ti Battlefield V performance review",
+    "query_type": "speech"
+  },
+  "train_000734_6XDq8gxZ6Bo": {
+    "query": "Wheel of Fortune Norway today",
+    "query_type": "speech"
+  },
+  "train_000317_cXn7Dz3iOsE": {
+    "query": "Belarusian law on mediation effectiveness",
+    "query_type": "speech"
+  },
+  "train_000364__72DupZ3o_c": {
+    "query": "Using a fork as a whisk substitute",
+    "query_type": "speech"
+  },
+  "train_000393_UfuuOJ9oVl8": {
+    "query": "JoCoding 100k subscriber event details",
+    "query_type": "speech"
+  },
+  "train_000129_b7WCBEjQECU": {
+    "query": "Russian rap song about friendship and generational change",
+    "query_type": "speech"
+  },
+  "train_000844_0c0Ec79W3OE": {
+    "query": "SF-T7643 Heavy Duty Walking Treadmill features",
+    "query_type": "speech"
+  },
+  "train_001066_Bo5oSZ3NJ6o": {
+    "query": "Incheon husband kills wife and injures mother-in-law arrest",
+    "query_type": "speech"
+  },
+  "train_000497_z6aeNFtELas": {
+    "query": "Fixing stripped wood screws with toothpicks and glue",
+    "query_type": "speech"
+  },
+  "train_000218_5whKbB3w824": {
+    "query": "Children's song performance with criticism",
+    "query_type": "speech"
+  },
+  "train_000196_ZdHfei_oHSk": {
+    "query": "Rachel Talent's 20km race walk training regimen",
+    "query_type": "speech"
+  },
+  "train_000249_5EZeTl_F3E0": {
+    "query": "How to reply to an email in Mail.ru",
+    "query_type": "speech"
+  },
+  "train_000340_A3-RDzx5e6M": {
+    "query": "Ghost Wolf steals braid from a general",
+    "query_type": "speech"
+  },
+  "train_000798_1q9fIxSqNkY": {
+    "query": "Removing and replacing timing belt tensioner",
+    "query_type": "speech"
+  },
+  "train_000579_qS4FomXm1uo": {
+    "query": "Cambodian land management and digitization efforts",
+    "query_type": "speech"
+  },
+  "train_000912_PHe11m156zI": {
+    "query": "Russian patriotic song lyrics about war",
+    "query_type": "speech"
+  },
+  "train_000426_UVI1AhhzScs": {
+    "query": "Taiwan cattle nodular disease outbreak response",
+    "query_type": "speech"
+  },
+  "train_001015_5CjeoHGCPbY": {
+    "query": "Hair styling process shown",
+    "query_type": "speech"
+  },
+  "train_000938_zg4KuwcIEWg": {
+    "query": "Cambodian rice farming challenges",
+    "query_type": "speech"
+  },
+  "train_000690_4r9kY54aIx8": {
+    "query": "How to fix a leaking single-hole kitchen faucet",
+    "query_type": "speech"
+  },
+  "train_000150_ofUzkMthkLA": {
+    "query": "Homemade rice wine and tangyuan recipe",
+    "query_type": "speech"
+  },
+  "train_000018_Wm8fWfUE4-c": {
+    "query": "Hatsune Miku song credits",
+    "query_type": "speech"
+  },
+  "train_000530_HYkyw7VAGsY": {
+    "query": "Cambodia measles outbreak",
+    "query_type": "speech"
+  },
+  "train_000949_qyeqmNybeGE": {
+    "query": "Korean car accident fault determination",
+    "query_type": "speech"
+  },
+  "train_000229_1a2XfAImDP0": {
+    "query": "Taiwan ghost package scam",
+    "query_type": "speech"
+  },
+  "train_000516_ESaZLhOp0Lg": {
+    "query": "Munda tribe rituals shown",
+    "query_type": "speech"
+  },
+  "train_000563_7tPNPhgTmL4": {
+    "query": "HUB Surf Academy instructional videos",
+    "query_type": "speech"
+  },
+  "train_000521_gIG5ENk4xJw": {
+    "query": "Train collision with a car near Ilskaya station",
+    "query_type": "speech"
+  },
+  "train_000469_BjC8xR9vyLM": {
+    "query": "Taiwan McDonald's BL serial number fake currency",
+    "query_type": "speech"
+  },
+  "train_000627_8RohPaZ3TOo": {
+    "query": "DIY snowman and Christmas tree craft tutorial",
+    "query_type": "speech"
+  },
+  "train_000211_H3uVLlyrXUk": {
+    "query": "Quebec government concessions regarding new immigration policy",
+    "query_type": "speech"
+  },
+  "train_000616_O6CoqXC9lJI": {
+    "query": "In Kwon Center director resignation",
+    "query_type": "speech"
+  },
+  "train_000631_EYE7k3fxZiI": {
+    "query": "Japanese thank you for watching video ending",
+    "query_type": "speech"
+  },
+  "train_000126_DYpiay369z8": {
+    "query": "Man wins $100 lifting chair with one hand",
+    "query_type": "speech"
+  },
+  "train_000557_z60CI4-9Zgc": {
+    "query": "Physics problem solving techniques for Chinese high school students",
+    "query_type": "speech"
+  },
+  "train_000868_Mzh2RVEJaBQ": {
+    "query": "Instrumental music loop",
+    "query_type": "speech"
+  },
+  "train_000441_BKL5ONy_itQ": {
+    "query": "French senator Richard's upcoming visit to Taiwan",
+    "query_type": "speech"
+  },
+  "train_000458_fVZLMMWrMmg": {
+    "query": "Couple arguing about marriage and spending time with son",
+    "query_type": "speech"
+  },
+  "train_000575_SA08ntbvbfE": {
+    "query": "Korean transaction analysis matrix explanation",
+    "query_type": "speech"
+  },
+  "train_000335_0Pio2tErIBU": {
+    "query": "Woman fractures leg hiking in Taiwan\u2019s Jianshan Mountain",
+    "query_type": "speech"
+  },
+  "train_000025_JDD1Dk5rwec": {
+    "query": "Pok\u00e9mon themed jewelry designs",
+    "query_type": "speech"
+  },
+  "train_000325_m3Sm5zMkr8c": {
+    "query": "How to attract men according to Lily Rodnik",
+    "query_type": "speech"
+  },
+  "train_000711_h_H8wes3m2k": {
+    "query": "How to tell if a battery is good or bad by dropping it",
+    "query_type": "speech"
+  },
+  "train_000779_x_mod3hPUrM": {
+    "query": "How to upload Instagram IGTV videos",
+    "query_type": "speech"
+  },
+  "train_000368_64hNO_E0dGE": {
+    "query": "Optimal timing for peanut harvesting in China",
+    "query_type": "speech"
+  },
+  "train_000008_dDzuh532HD8": {
+    "query": "Obama\u2019s gun control proposals after Sandy Hook shooting",
+    "query_type": "speech"
+  },
+  "train_000153_r880L0VtBF8": {
+    "query": "Benefits of Bush Knowing program for children",
+    "query_type": "speech"
+  },
+  "train_000336_XaUiNeZIPXw": {
+    "query": "Korean love song lyrics with \"You have no choice but to love me\"",
+    "query_type": "speech"
+  },
+  "train_001051_VfBP5eVOtio": {
+    "query": "Fossil fuel carbon footprint analysis",
+    "query_type": "speech"
+  },
+  "train_000190_UiGOd60eLlY": {
+    "query": "Kjell Kronstr\u00f6m jewelry demonstration",
+    "query_type": "speech"
+  },
+  "train_000544_0MOOraiulFw": {
+    "query": "YK Chinese subtitles support",
+    "query_type": "speech"
+  },
+  "train_000464_Vfsf1Pu0WWA": {
+    "query": "Tank armor fatigue discussion",
+    "query_type": "speech"
+  },
+  "train_000213_q5V4jBxHDtQ": {
+    "query": "China's IP address tracking of social media users",
+    "query_type": "speech"
+  },
+  "train_000050_etgFlWWfKgk": {
+    "query": "Feldhaus Klinker ecological building materials",
+    "query_type": "speech"
+  },
+  "train_000251_LMKQyl5o_Eo": {
+    "query": "Paris Notre Dame Cathedral archaeological discoveries",
+    "query_type": "speech"
+  },
+  "train_001084_E_g0YP4kKwA": {
+    "query": "School violence records impact on college admissions and employment",
+    "query_type": "speech"
+  },
+  "train_000260_05buKfzulMg": {
+    "query": "Seed starting guide for beginners",
+    "query_type": "speech"
+  },
+  "train_000850_xdZck4ionFg": {
+    "query": "Avocado salad recipe with cherry tomatoes and arugula",
+    "query_type": "speech"
+  },
+  "train_000682_uFDaSSBiMEo": {
+    "query": "Tyumen Higher Military Engineering School admissions requirements",
+    "query_type": "speech"
+  },
+  "train_000127_qDMY1kZgpqA": {
+    "query": "Philippine Senate President election 2023",
+    "query_type": "speech"
+  },
+  "train_000858_H7ipqfosgSY": {
+    "query": "Navajo sea \u200b\u200bdaggers recipe",
+    "query_type": "speech"
+  },
+  "train_001067_zw1dLZEWci4": {
+    "query": "\ud0dd\ubc30 labor union agreement on delivery worker workload",
+    "query_type": "speech"
+  },
+  "train_000004_RqiBRG5HuZc": {
+    "query": "Interior design for dementia patients color contrast",
+    "query_type": "speech"
+  },
+  "train_000887_BdC3PQjBjXg": {
+    "query": "Fedor Emelianenko Ryan Bader fight result",
+    "query_type": "speech"
+  },
+  "train_001037_vbL0tyV3ZsY": {
+    "query": "Gangwon-do public institutions restructuring plan",
+    "query_type": "speech"
+  },
+  "train_000118_TNhKAJwlj04": {
+    "query": "Legends of Runeterra gameplay release",
+    "query_type": "description"
+  },
+  "train_000915_KWukHoxCiEI": {
+    "query": "University Road maple leaves and sycamore leaves",
+    "query_type": "description"
+  },
+  "train_000091_TotQI19U4Hg": {
+    "query": "Emergency Department Doctors Chinese drama",
+    "query_type": "description"
+  },
+  "train_000849_K9KZGaRQLyk": {
+    "query": "Goguryeo-style pork skewers (Makjeokgui) recipe",
+    "query_type": "description"
+  },
+  "train_000793_q6CLuKA9wMQ": {
+    "query": "Kim Jae-seok Naturaltone part.2 tracklist",
+    "query_type": "description"
+  },
+  "train_000990_l1oktgAwLBM": {
+    "query": "Alter Air ventilation system in Kyiv home",
+    "query_type": "description"
+  },
+  "train_000672_wfEdlKfWE_c": {
+    "query": "Eriksen to Inter impact on Serie A title race",
+    "query_type": "description"
+  },
+  "train_000935_sUN3_bvYG9o": {
+    "query": "Training grenade throw F1",
+    "query_type": "description"
+  },
+  "train_000119_vj5_k9eQQ8k": {
+    "query": "An Jung-geun's pistol and hollow point bullets",
+    "query_type": "description"
+  },
+  "train_000384_JNAF42-2l2g": {
+    "query": "NYC winter storm update",
+    "query_type": "description"
+  },
+  "train_001013_XVXIodci81c": {
+    "query": "Korean rice farmers focusing on high quality rice",
+    "query_type": "description"
+  },
+  "train_000131_jtlyosk4vLw": {
+    "query": "Ferrari F430 side skirt repair",
+    "query_type": "description"
+  },
+  "train_000849_REozG9Y-ZS8": {
+    "query": "Jeong Sye-gyun National Assembly hearing controversy",
+    "query_type": "description"
+  },
+  "train_000215_H0e_3vlKUfc": {
+    "query": "Gayle Ong report from KRON4",
+    "query_type": "description"
+  },
+  "train_000304_S1jgKMsr_pc": {
+    "query": "Czech embassy resuming work visa appointments",
+    "query_type": "description"
+  },
+  "train_000463_UpysdT-iEXE": {
+    "query": "Ergo mining profitability and scams",
+    "query_type": "description"
+  },
+  "train_001080_5GBpNABIrCU": {
+    "query": "SYPAQ Systems paper drone for Ukraine army",
+    "query_type": "description"
+  },
+  "train_000012_QVTJBr-pylo": {
+    "query": "FIFA 21 scorpion kick tutorial",
+    "query_type": "description"
+  },
+  "train_000889_fnMmZjm-8tQ": {
+    "query": "Alcohol content in non-alcoholic beer",
+    "query_type": "description"
+  },
+  "train_000128_pSmjTVccEaY": {
+    "query": "Singapore Science Centre energy story exhibition",
+    "query_type": "description"
+  },
+  "train_000363_I7ev1nHo0n0": {
+    "query": "Let go and entrust to you lyrics",
+    "query_type": "description"
+  },
+  "train_000740_1U6P24RZwUk": {
+    "query": "Great West Casualty Company internship program",
+    "query_type": "description"
+  },
+  "train_000331_o23yyO73wvA": {
+    "query": "Wolf of Wall Street parody",
+    "query_type": "description"
+  },
+  "train_000487_EVsXVYJAQZI": {
+    "query": "Li Ma and witch trick with piggy bank",
+    "query_type": "description"
+  },
+  "train_000427_tyKxlQoJSSM": {
+    "query": "US authorities investigate Terraform Labs CEO Kwon Do-hyung",
+    "query_type": "description"
+  },
+  "train_000832_3AmF37S-j-M": {
+    "query": "Renault-Nissan-Mitsubishi EV investment",
+    "query_type": "description"
+  },
+  "train_000046_NrzB0PdqgoI": {
+    "query": "95\u540e construction site data clerk earning over 10k per month",
+    "query_type": "description"
+  },
+  "train_000449_oSRsP6YvCV4": {
+    "query": "How to mirror projector screen to monitor for sermon display",
+    "query_type": "description"
+  },
+  "train_000696_tfUybUAxsxU": {
+    "query": "Toronto school strike protest at Queen's Park",
+    "query_type": "description"
+  },
+  "train_000875_eATQRSsaPAI": {
+    "query": "Japanese hip hop mix",
+    "query_type": "description"
+  },
+  "train_001011_iOJMgN5v1jg": {
+    "query": "Stevie Stone Kutt Calhoun \"Keep My Name Out Your Mouth\" performance",
+    "query_type": "description"
+  },
+  "train_000814_8NxlnyvKxJY": {
+    "query": "Lev Leshchenko 50th anniversary concert",
+    "query_type": "description"
+  },
+  "train_001069_HNg1HPoGo94": {
+    "query": "Gold jewelry store robbery in downtown",
+    "query_type": "description"
+  },
+  "train_000508_S8wsq_D2siY": {
+    "query": "Nine\u5be8\u6c9f panda coat for grandpa",
+    "query_type": "description"
+  },
+  "train_000600_RTH6vCtLSuU": {
+    "query": "Witness to murder on cliffside",
+    "query_type": "description"
+  },
+  "train_000231_UgsGv7be_oQ": {
+    "query": "Squash TV live stream",
+    "query_type": "description"
+  },
+  "train_000526_GAg3HcjNKL0": {
+    "query": "Incheon Airport free services",
+    "query_type": "description"
+  },
+  "train_000141_DwSXbZ_lpXQ": {
+    "query": "Basketball drills to beat tight defense",
+    "query_type": "description"
+  },
+  "train_000709_7XgUyA9e8u0": {
+    "query": "Maltipoo dog vlog",
+    "query_type": "description"
+  },
+  "train_000150_lMVr1eUjlc8": {
+    "query": "Bird mother raising frogs in nest",
+    "query_type": "description"
+  },
+  "train_000384_WDy8fsjYPlU": {
+    "query": "Completion rate of wastewater treatment plant in Had Soualem",
+    "query_type": "description"
+  },
+  "train_000762_jOUQGCYTxL8": {
+    "query": "Syrian Storm Russian game petition",
+    "query_type": "description"
+  },
+  "train_000874_bslCmRldkVo": {
+    "query": "Preparing gypsum plaster wall for spackling",
+    "query_type": "description"
+  },
+  "train_000411_G6LbH7zmCPM": {
+    "query": "Fourth grade lesson on millions and billions",
+    "query_type": "description"
+  },
+  "train_000536_U5lMX6nJsFA": {
+    "query": "How to improve base endurance for running",
+    "query_type": "description"
+  },
+  "train_000632_kUvYXfxqXiE": {
+    "query": "Americans donating stimulus checks",
+    "query_type": "description"
+  },
+  "train_000070_kD_iytzI-JE": {
+    "query": "\u4e52\u4e53\u7403\u53cd\u624b\u62e7\u7403\u8bad\u7ec3\u6280\u5de7",
+    "query_type": "description"
+  },
+  "train_000919_1VNN5ctvwIs": {
+    "query": "Kazakhstan state of emergency March 2020",
+    "query_type": "description"
+  },
+  "train_000259_M6pWy7scjC4": {
+    "query": "1568 black tea tasting review",
+    "query_type": "description"
+  },
+  "train_000512_LZyywdLkFMs": {
+    "query": "Man subdued store owner during daytime robbery",
+    "query_type": "description"
+  },
+  "train_000890_CDShrIZ2RBQ": {
+    "query": "Diggle official cut",
+    "query_type": "description"
+  },
+  "train_000288_iqwRJ3lhO6g": {
+    "query": "Acupressure points for appetite control",
+    "query_type": "description"
+  },
+  "train_000573_AoaZCONQkK0": {
+    "query": "Taiwan President\u2019s remarks on cross-strait relations",
+    "query_type": "description"
+  },
+  "train_000378_rkQMaHhEMRQ": {
+    "query": "Korean-style marinade for 1200g pork belly",
+    "query_type": "description"
+  },
+  "train_001051_fXpIss3LiNE": {
+    "query": "Jeong Yun-hee 1970s Korean actress and singer",
+    "query_type": "description"
+  },
+  "train_000635_M6HEsg7WXtw": {
+    "query": "NVK-ONLINE official website",
+    "query_type": "description"
+  },
+  "train_000804_cwMq8f463sI": {
+    "query": "Devon Allen NCAA 110m hurdle win",
+    "query_type": "description"
+  },
+  "train_000188_EOAlxpPhozM": {
+    "query": "Swimming core workout with kickboard",
+    "query_type": "description"
+  },
+  "train_000889_FPlayNeY4Oo": {
+    "query": "SA Latin Salsa Dance Club class information",
+    "query_type": "description"
+  },
+  "train_000215_vkDNYZXZ7Fo": {
+    "query": "Reverse osmosis desalination technology",
+    "query_type": "description"
+  },
+  "train_000318_Px-Y59EYxk8": {
+    "query": "ATACMS rockets secretly supplied to Ukraine",
+    "query_type": "description"
+  },
+  "train_000781_obKtaOJeKQE": {
+    "query": "Kalinga TV channel information",
+    "query_type": "description"
+  },
+  "train_000863_DszzM5wgA5s": {
+    "query": "Animation collaboration recruitment June 2022",
+    "query_type": "description"
+  },
+  "train_000213_30b2a3Dzros": {
+    "query": "\u7267\u6c11 refusing to sign consent form",
+    "query_type": "description"
+  },
+  "train_000213_h9VQduZe3Cg": {
+    "query": "How to increase muscle mass through diet",
+    "query_type": "description"
+  },
+  "train_001029_dCHurSi45a4": {
+    "query": "Stefan-Boltzmann law explanation",
+    "query_type": "description"
+  },
+  "train_000917_BR84Z4cgRV0": {
+    "query": "Author\u2019s view on compound interest vs liquidity",
+    "query_type": "description"
+  },
+  "train_000834_SHyNkGb7ZQA": {
+    "query": "Paper flowers DIY craft tutorial",
+    "query_type": "description"
+  },
+  "train_000642_KX8HJdwyVG8": {
+    "query": "Homeopathic sound forms on Kiberis",
+    "query_type": "description"
+  },
+  "train_000480_gIB78pwnJFc": {
+    "query": "Small 4\u33a1 walk-in closet organization tips",
+    "query_type": "description"
+  },
+  "train_000700_4u3BfJ7samg": {
+    "query": "Graham City Hall renovation bid accepted",
+    "query_type": "description"
+  },
+  "train_000650_QSAM-dWCjr4": {
+    "query": "Reusing old band saw blades",
+    "query_type": "description"
+  },
+  "train_000633_WYK_X-yrOf4": {
+    "query": "Burundi's UB_Rumuri plan to implement President Ndayishimiye's economic vision",
+    "query_type": "description"
+  },
+  "train_000099_seVGQfyyGRI": {
+    "query": "Scar correction methods in Moscow clinics",
+    "query_type": "description"
+  },
+  "train_000395_VfkdF7JpJG4": {
+    "query": "Fertilizer-free feeding for tomatoes, peppers, and cucumbers",
+    "query_type": "description"
+  },
+  "train_000267_14eVsBnZAyI": {
+    "query": "Theresa May proposes confirmatory referendum on Brexit bill",
+    "query_type": "description"
+  },
+  "train_000374_QXFRga9uBuI": {
+    "query": "Chinese entrepreneurs quoting patriotic movie lines",
+    "query_type": "description"
+  },
+  "train_000027_RCgkSig01Bs": {
+    "query": "Bird feeding in four-tier cage batteries",
+    "query_type": "description"
+  },
+  "train_001019_A3tPdCfrDlY": {
+    "query": "Russian language exam preparation 2023",
+    "query_type": "description"
+  },
+  "train_000136_tT9KMIMUcD0": {
+    "query": "Dream interpretation of seeing donkeys",
+    "query_type": "description"
+  },
+  "train_001069_tBiHyn4cn5I": {
+    "query": "Plastic cup usage in Korean coffee shops",
+    "query_type": "description"
+  },
+  "train_000311_pKnuJ78fVkg": {
+    "query": "West Ham vs. Viborg Europa Conference League match preview",
+    "query_type": "description"
+  },
+  "train_000984__hX8njc5RQI": {
+    "query": "Winding clock 31 days timer",
+    "query_type": "description"
+  },
+  "train_001079_ctMx6Wbhw4s": {
+    "query": "Korean ignition interlock device for repeat DUI offenders",
+    "query_type": "description"
+  },
+  "train_000282_7FThHJ6mqAc": {
+    "query": "Cao Lei singing \"Passionate Desert\" on I Love Lyrics",
+    "query_type": "description"
+  },
+  "train_000084_CMiF0OeTDy0": {
+    "query": "Ouro Kronii and Kaela Kovalskia Minecraft collaboration",
+    "query_type": "description"
+  },
+  "train_000019_hGNp4Exurw0": {
+    "query": "How to remove a stripped allen head bolt",
+    "query_type": "description"
+  },
+  "train_000209_xThek6O4D1Q": {
+    "query": "Tom and Jerry chase with Spike",
+    "query_type": "description"
+  },
+  "train_000325_HBvNFi1hQZ4": {
+    "query": "Fine aggregate concrete pump manufacturing China",
+    "query_type": "description"
+  },
+  "train_000713_fxvmKYj0KyA": {
+    "query": "Basketball player reacting to teammate\u2019s pain",
+    "query_type": "description"
+  },
+  "train_000479_4aTg13RyYkA": {
+    "query": "Miri Tzu Chi volunteers sort 772 bags of used clothing",
+    "query_type": "description"
+  },
+  "train_000798_1H-2FMY4Erk": {
+    "query": "Homemade wine grape crushing method",
+    "query_type": "description"
+  },
+  "train_000087_2PM-TTP_FKA": {
+    "query": "Shoaib Malik retired cricket match 2021",
+    "query_type": "description"
+  },
+  "train_000455_tX-B04cLn2Q": {
+    "query": "FL Studio 20 pre shifted clap tutorial",
+    "query_type": "description"
+  },
+  "train_000149_nZHgmo55xWc": {
+    "query": "Harrington Emerson's twelve principles of efficiency",
+    "query_type": "description"
+  },
+  "train_000816_6ykNHQvmZYQ": {
+    "query": "Astrology analysis of Jean-Luc M\u00e9lenchon becoming prime minister",
+    "query_type": "description"
+  },
+  "train_001067_8KrFy8CrhZo": {
+    "query": "Varying walking speed and intensity for better results",
+    "query_type": "description"
+  },
+  "train_000007_LyTu_YQOIC4": {
+    "query": "Causes of specific bad breath",
+    "query_type": "description"
+  },
+  "train_000622_Dyl_X8yW7cQ": {
+    "query": "Octopus in blender experiment",
+    "query_type": "description"
+  },
+  "train_000223_D5aY8yjraiE": {
+    "query": "Baitey Rsiam - \"Ao Mai Set\" music video (Hold down)",
+    "query_type": "description"
+  },
+  "train_000250_8-XOn-U86zU": {
+    "query": "EGO - \"Ay\" music video filming locations",
+    "query_type": "description"
+  },
+  "train_000428_UN74ORsMNqw": {
+    "query": "2017 Napa Valley wine vintage review",
+    "query_type": "description"
+  },
+  "train_000335_-d5w5mXaons": {
+    "query": "Korean foam bomb drain cleaner review",
+    "query_type": "description"
+  },
+  "train_000594_i9ebMZ7hAEo": {
+    "query": "Alipay red envelope code 579194130",
+    "query_type": "description"
+  },
+  "train_000486_uCDWG868GvU": {
+    "query": "Digi-Key API for M2M connections",
+    "query_type": "description"
+  },
+  "train_001067_svnKhyFI4g8": {
+    "query": "Vow unboxing video",
+    "query_type": "description"
+  },
+  "train_000889_sZIXQJQWap8": {
+    "query": "Jean-Pierre Petit pyramid construction method",
+    "query_type": "description"
+  },
+  "train_000005_NHs_M2MPiJ4": {
+    "query": "IF formula with emojis in Excel",
+    "query_type": "description"
+  },
+  "train_000400_9AwRXl79EVo": {
+    "query": "SOLIDWORKS 2021 assembly workflow improvements",
+    "query_type": "description"
+  },
+  "train_000289_N1xvWUP1d9Q": {
+    "query": "Tarot reading about manipulation and self-worth",
+    "query_type": "ocr"
+  },
+  "train_000231_665YfCieiH8": {
+    "query": "Brake system components overview",
+    "query_type": "ocr"
+  },
+  "train_000219_kulR6wSgmdU": {
+    "query": "Medicare advantage plans vs Medigap",
+    "query_type": "ocr"
+  },
+  "train_000146_Ks_HSj1UqKI": {
+    "query": "Watch more videos subscription",
+    "query_type": "ocr"
+  },
+  "train_000451_9-YsaTuRb1o": {
+    "query": "Fashion advice for men",
+    "query_type": "ocr"
+  },
+  "train_000002_oWIXFIQWDy4": {
+    "query": "Southwest pilot hailed a hero",
+    "query_type": "ocr"
+  },
+  "train_001036_39v88Yb0k0s": {
+    "query": "Stromatolite formation and early Earth ecosystems",
+    "query_type": "ocr"
+  },
+  "train_000216_KWJFiqJFBuw": {
+    "query": "Amy Leigh de Jager kidnapping update",
+    "query_type": "ocr"
+  },
+  "train_000923_6Wpk0DP29xM": {
+    "query": "Hook technique tutorial",
+    "query_type": "ocr"
+  },
+  "train_000951_qfFiLsdnCaM": {
+    "query": "Container ship dimensions",
+    "query_type": "ocr"
+  },
+  "train_000910_5E8LXwfJHKE": {
+    "query": "Taiwan flood recovery",
+    "query_type": "ocr"
+  },
+  "train_000736__D5Ncy0M64k": {
+    "query": "UN webcast live stream",
+    "query_type": "ocr"
+  },
+  "train_001035_T9GGfsixk-U": {
+    "query": "Vadym Khmarskyi interview at Odessa National University",
+    "query_type": "ocr"
+  },
+  "train_000989_Q3Jh5Q_ICJA": {
+    "query": "Customer experience design using data analysis",
+    "query_type": "ocr"
+  },
+  "train_000496_fD4hSyktZVI": {
+    "query": "Instapak foam packaging system",
+    "query_type": "ocr"
+  },
+  "train_000707_USVW_cgYHd4": {
+    "query": "\"Thank you for saving me\" scene",
+    "query_type": "ocr"
+  },
+  "train_000692_PmluVhXA6fo": {
+    "query": "Joker Tyut video tutorial",
+    "query_type": "ocr"
+  },
+  "train_000140_cVXMz6FjRIY": {
+    "query": "If I Ain't Got You music video",
+    "query_type": "ocr"
+  },
+  "train_000730_jG7czvpKmBw": {
+    "query": "Horizon summer camp Minsk Oblast",
+    "query_type": "ocr"
+  },
+  "train_000622_C4HWgrac1JQ": {
+    "query": "Garage door opener troubleshooting guide",
+    "query_type": "ocr"
+  },
+  "train_000304_iHCd-HKHy6M": {
+    "query": "Cold and flu medicine recommendations",
+    "query_type": "ocr"
+  },
+  "train_000166_X4PuuFSbjpU": {
+    "query": "How to subscribe",
+    "query_type": "ocr"
+  },
+  "train_001082_xWzSNodC6ls": {
+    "query": "North Korea summit host country",
+    "query_type": "ocr"
+  },
+  "train_000857_ceiCxLiVnFI": {
+    "query": "Daechang-dong development excess profit recovery clause deletion investigation",
+    "query_type": "ocr"
+  },
+  "train_000696_ivEKAW6IVWU": {
+    "query": "Coconut and cashew filling recipe",
+    "query_type": "ocr"
+  },
+  "train_001071_HfFPpEpZ_CU": {
+    "query": "Construction scaffolding collapse safety",
+    "query_type": "ocr"
+  },
+  "train_000231_FLKJnG9S-_s": {
+    "query": "NBC app full episodes",
+    "query_type": "ocr"
+  },
+  "train_000546_AI3OdlJPUAI": {
+    "query": "Wolyeongsan Mountain",
+    "query_type": "ocr"
+  },
+  "train_000610_Zhkpz-VPUGY": {
+    "query": "One second video",
+    "query_type": "ocr"
+  },
+  "train_000591_EVa4NDQLiuM": {
+    "query": "Korean TV show \"Nam Seong-woo's Life\"",
+    "query_type": "ocr"
+  },
+  "train_000337_jZk9Ury5Vjs": {
+    "query": "Yoon Seok-yeol disciplinary committee hearing",
+    "query_type": "ocr"
+  },
+  "train_000880_dHoOiw6UH6c": {
+    "query": "Korean dairy farm protests and price increases",
+    "query_type": "ocr"
+  },
+  "train_001042_TTv94YsWGU0": {
+    "query": "Geroncraft rare creature locations",
+    "query_type": "ocr"
+  },
+  "train_000405_d75xBzuFSqY": {
+    "query": "Sanding furniture with electric sander",
+    "query_type": "ocr"
+  },
+  "train_000358_VK44eACTkmM": {
+    "query": "Volleyball Set Tempo training videos",
+    "query_type": "ocr"
+  },
+  "train_000274_JK9UZ8DXLr4": {
+    "query": "Huanghuali official hat stand auction price",
+    "query_type": "ocr"
+  },
+  "train_000848_nXdLieLlEo8": {
+    "query": "Baby formula container assembly instructions",
+    "query_type": "ocr"
+  },
+  "train_001020_UbxK93PTqtU": {
+    "query": "Bus accident in Gangjin injuring elderly people",
+    "query_type": "ocr"
+  }
+}
