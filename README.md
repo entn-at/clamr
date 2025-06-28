@@ -32,6 +32,7 @@ Please combine this with the original Multivent 2.0 training data by mapping wit
 
 ### Datasets
 
+### Multivent 2.0/++
 We provide the code to transform the original data into the data that we expects for the models (`datasets.DatasetDict`). Please download the respective data: Multivent 2.0: https://huggingface.co/datasets/hltcoe/MultiVENT2.0
 
 Additionally, we provide the processed datasets [here](https://drive.google.com/drive/folders/1aKP08Ab0yZwN9R_tLuDhyJ-WkqRYB-G0?usp=sharing).
@@ -51,6 +52,15 @@ Example entry:
 ```
 
 You would also need to extract the frames as jpg, and audio as wav for Omni model.
+
+### Video-MME
+
+The processed data, along with the extracted frames with CLaMR, can be found in `data/videomme_long_CLaMR_selected_results.json`.
+
+We do not provide the extracted frames. To prepare the data, we followed the official Video-MME evaluation pipeline described in their [GitHub repo](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline), to use the [video-slicer tool](https://github.com/look4u-ok/video-slicer) to extract frames and subtitles. We followed the official Qwen2.5-VL setting, which samples videos at 2 frames per second, and the upper limit is 768 frames. We used this script to extract 768 frames per long video with the corresponding subtitles.
+
+## Model
+We provide the model for MultiVent on [Huggingface](https://huggingface.co/meetdavidwan/clamr). Use it with the argument `--pretrained_peft_model_name_or_path`.
 
 ## Code Structure
 
@@ -106,6 +116,8 @@ accelerate launch src/main.py --do_train \
 
 ## Evaluation
 
+### Retrieval
+
 Example command to evaluate a trained model:
 ```bash
 accelerate launch --main_process_port 10086 src/main.py --do_eval \
@@ -123,6 +135,10 @@ accelerate launch --main_process_port 10086 src/main.py --do_eval \
   --pretrained_peft_model_name_or_path <CHECKPOINT_DIR> --combine_modalities
 ```
 Replace `<FRAMES_DIR>` and `<CHECKPOINT_DIR>` as appropriate.
+
+### Video-MME
+
+We provide the code to run the baseline and with extracted frames in `qwen_videomme_baseline.ipynb`.
 
 ## Citation
 
